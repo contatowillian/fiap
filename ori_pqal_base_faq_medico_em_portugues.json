@@ -1,0 +1,1609 @@
+{
+    "21645374": {
+        "QUESTION": "As mitocôndrias desempenham um papel na remodelação das folhas da planta renda durante a morte celular programada?",
+        "CONTEXTS": [
+            "A morte celular programada (DCP) é a morte regulada de células dentro de um organismo. A planta renda (Aponogeton madagascariensis) produz perfurações em suas folhas por meio da DCP. As folhas da planta consistem em uma malha de veias longitudinais e transversais que envolvem areólas. A DCP ocorre nas células no centro dessas areólas e progride para fora, parando a aproximadamente cinco células da vasculatura. O papel das mitocôndrias durante a DCP tem sido reconhecido em animais; no entanto, tem sido menos estudado durante a DCP em plantas.",
+            "O seguinte artigo elucida o papel da dinâmica mitocondrial durante a DCP regulada pelo desenvolvimento in vivo em A. madagascariensis. Uma única areóla dentro de uma folha no estágio de janela (a DCP está ocorrendo) foi dividida em três áreas com base na progressão da DCP: células que não passarão por DCP (NPCD), células em estágios iniciais de DCP (EPCD) e células em estágios tardios de DCP (LPCD). As folhas no estágio de janela foram coradas com o corante mitocondrial MitoTracker Red CMXRos e examinadas. A dinâmica mitocondrial foi delineada em quatro categorias (M1-M4) com base em características incluindo distribuição, motilidade e potencial de membrana (ΔΨm). Um ensaio TUNEL mostrou nDNA fragmentado em um gradiente ao longo desses estágios mitocondriais. Cloroplastos e cadeias transvacuolares também foram examinados usando imagem de células vivas. A possível importância da formação do poro de transição de permeabilidade mitocondrial (PTP) durante a DCP foi examinada indiretamente via tratamento in vivo com ciclosporina A (CsA). Esse tratamento resultou em folhas de planta renda com um número significativamente menor de perfurações em comparação com os controles, e que exibiram dinâmica mitocondrial semelhante à das células sem DCP."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Alismataceae",
+            "Apoptose",
+            "Diferenciação Celular",
+            "Mitocôndrias",
+            "Folhas das Plantas"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Os resultados retrataram a dinâmica mitocondrial in vivo à medida que a DCP progride na planta renda, e destacam a correlação dessa organela com outras organelas durante a DCP do desenvolvimento. Até onde sabemos, este é o primeiro relato de mitocôndrias e cloroplastos se movendo em cadeias transvacuolares para formar uma estrutura em anel ao redor do núcleo durante a DCP do desenvolvimento. Além disso, pela primeira vez, demonstramos a viabilidade do uso de CsA em um sistema de planta inteira. No geral, nossos achados implicam as mitocôndrias como desempenhando um papel crítico e precoce na DCP regulada pelo desenvolvimento na planta renda."
+    },
+    "16418930": {
+        "QUESTION": "Auidade visual de Landolt C e Snellen E: diferenças na ambliopia por estrabismo?",
+        "CONTEXTS": [
+            "A avaliação da acuidade visual depende dos optotipos usados para a medição. A capacidade de reconhecer diferentes optotipos difere mesmo se seus detalhes críticos aparecerem sob o mesmo ângulo visual. Como os optotipos são avaliados em indivíduos com boa acuidade visual e sem distúrbios oculares, diferenças na faixa inferior de acuidade visual não podem ser excluídas. Neste estudo, a acuidade visual medida com o Snellen E foi comparada com a acuidade de Landolt C.",
+            "100 pacientes (idade de 8 a 90 anos, mediana de 60,5 anos) com vários distúrbios oculares, entre eles 39 com ambliopia devido a estrabismo, e 13 voluntários saudáveis foram testados. Tabelas com o Snellen E e o Landolt C (Precision Vision) que imitam as tabelas ETDRS foram usadas para avaliar a acuidade visual. Três de 5 optotipos por linha tinham que ser identificados corretamente, enquanto respostas erradas foram monitoradas. No grupo de pacientes, os olhos com a menor acuidade visual, e os olhos direitos dos sujeitos saudáveis, foram avaliados.",
+            "As diferenças entre a acuidade de Landolt C (LR) e a acuidade de Snellen E (SE) foram pequenas. Os valores decimais médios para LR e SE foram 0,25 e 0,29 no grupo inteiro e 0,14 e 0,16 para os olhos com ambliopia por estrabismo. A diferença média entre LR e SE foi de 0,55 linhas no grupo inteiro e 0,55 linhas para os olhos com ambliopia por estrabismo, com valores mais altos de SE em ambos os grupos. Os resultados dos outros grupos foram semelhantes, com apenas pequenas diferenças entre LR e SE."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "PACIENTES E MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Adulto",
+            "Idoso",
+            "Idoso de 80 Anos ou Mais",
+            "Ambliopia",
+            "Catarata",
+            "Criança",
+            "Ophthalmopatias",
+            "Feminino",
+            "Humanos",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Valores de Referência",
+            "Erros de Refração",
+            "Reproduzibilidade dos Resultados",
+            "Doenças da Retina",
+            "Estrabismo",
+            "Testes de Visão",
+            "Acuidade Visual"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Usando as tabelas descritas, houve apenas uma ligeira superestimativa da acuidade visual pelo Snellen E em comparação com o Landolt C, mesmo na ambliopia por estrabismo. Pequenas diferenças na faixa inferior de acuidade visual devem ser consideradas."
+    },
+    "9488747": {
+        "QUESTION": "Síncope durante o banho em lactentes, uma forma pediátrica de urticária induzida pela água?",
+        "CONTEXTS": [
+            "Eventos com aparente ameaça à vida em lactentes são um problema difícil e frequente na prática pediátrica. O prognóstico é incerto devido ao risco de síndrome da morte súbita do lactente.",
+            "Oito lactentes com idade entre 2 e 15 meses foram admitidos durante um período de 6 anos; eles sofriam de males semelhantes no banho: ao serem imersos, ficavam pálidos, hipotônicos, imóveis e não reativos; a recuperação levava alguns segundos após a retirada do banho e estimulação. Dois diagnósticos foram inicialmente considerados: convulsão ou refluxo gastroesofágico, mas isso era duvidoso. A hipótese de um equivalente de urticária aquagênica foi então considerada; assim como para pacientes com esta doença, a família de cada lactente continha membros que sofriam de dermografismo, indisposições ou erupções após exposição à água ou ao sol. Todos os seis lactentes tinham dermografismo. Encontramos um aumento nos níveis sanguíneos de histamina após um banho de teste nos dois lactentes testados. A evolução dessas \"indisposições aquagênicas\" foi favorável após algumas semanas sem banhos. Após um seguimento de 2 a 7 anos, três de sete lactentes continuam a sofrer de problemas associados ao sol ou à água."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "RELATOS DE CASOS"
+        ],
+        "MESHES": [
+            "Banhos",
+            "Histamina",
+            "Humanos",
+            "Lactente",
+            "Síncope",
+            "Urticária",
+            "Água"
+        ],
+        "YEAR": "1997",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "\"Indisposições aquagênicas\" poderiam ser uma forma pediátrica da urticária aquagênica."
+    },
+    "17208539": {
+        "QUESTION": "Os resultados a longo prazo do abaixamento transanal são iguais aos do abaixamento transabdominal?",
+        "CONTEXTS": [
+            "O abaixamento endorretal transanal (TERPT) está se tornando o procedimento mais popular no tratamento da doença de Hirschsprung (DH), mas o estiramento excessivo dos esfíncteres anais continua sendo uma questão crítica que pode impactar a continência. Este estudo examinou o resultado a longo prazo do TERPT versus o abaixamento transabdominal (ABD) convencional para DH.",
+            "Os prontuários de 41 pacientes com mais de 3 anos de idade que foram submetidos a um abaixamento por DH (TERPT, n = 20; ABD, n = 21) foram revisados, e suas famílias foram minuciosamente entrevistadas e pontuadas por meio de um questionário de resultado a longo prazo pós-abaixamento de 15 itens. Os pacientes foram operados entre os anos de 1995 e 2003. Durante esse período, nosso grupo fez a transição da técnica ABD para a TERPT. A pontuação total variou de 0 a 40: 0 a 10, excelente; 11 a 20, bom; 21 a 30, razoável; 31 a 40, ruim. O teste t de Student bicaudal, análise de covariância, bem como regressão logística e linear foram usados para analisar os dados coletados com intervalo de confiança superior a 95%.",
+            "As pontuações gerais foram semelhantes. No entanto, a pontuação de continência foi significativamente melhor no grupo ABD, e a pontuação do padrão evacuatório foi melhor no grupo TERPT. Uma diferença significativa na idade no momento da entrevista entre os 2 grupos foi notada; portanto, reanalisamos os dados controlando a idade, e isso mostrou que a idade não afetou significativamente o resultado da pontuação a longo prazo entre os grupos."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Criança",
+            "Pré-Escolar",
+            "Colectomia",
+            "Feminino",
+            "Doença de Hirschsprung",
+            "Humanos",
+            "Masculino",
+            "Resultado do Tratamento"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Nosso estudo a longo prazo mostrou resultados significativamente melhores (2 vezes maiores) em relação à pontuação de continência para a abordagem abdominal em comparação com o abaixamento transanal. As pontuações de padrão evacuatório e enterocolite foram um pouco melhores para o grupo TERPT. Esses achados levantam uma questão importante sobre o manejo cirúrgico atual da DH; no entanto, mais casos precisarão ser estudados antes que uma conclusão definitiva possa ser tirada."
+    },
+    "10808977": {
+        "QUESTION": "Intervenções personalizadas podem aumentar o uso de mamografia entre mulheres de HMO?",
+        "CONTEXTS": [
+            "O aconselhamento por telefone e as comunicações impressas personalizadas surgiram como métodos promessores para promover o rastreamento por mamografia. No entanto, tem havido pouca pesquisa testando, dentro do mesmo ensaio de campo randomizado, a eficácia desses dois métodos em comparação com um sistema de cuidados habituais de alta qualidade para melhorar o rastreamento. Este estudo abordou a questão: Em comparação com os cuidados habituais, o aconselhamento telefônico personalizado é mais eficaz do que materiais impressos personalizados para promover o rastreamento por mamografia?",
+            "Ensaio de campo randomizado de três anos.",
+            "Mil e noventa e nove mulheres com 50 anos ou mais recrutadas de uma organização de manutenção da saúde (HMO) na Carolina do Norte.",
+            "As mulheres foram randomizadas em 1 de 3 grupos: (1) cuidados habituais, (2) comunicações impressas personalizadas e (3) aconselhamento telefônico personalizado.",
+            "Adesão ao rastreamento por mamografia com base em autorrelatos obtidos durante 1995, 1996 e 1997.",
+            "Em comparação com os cuidados habituais isolados, o aconselhamento telefônico promoveu uma proporção significativamente maior de mulheres fazendo mamografias no prazo (71% vs 61%) do que o material impresso personalizado (67% vs 61%), mas apenas após o primeiro ano de intervenção (durante 1996). Além disso, em comparação com os cuidados habituais, o aconselhamento telefônico foi mais eficaz do que os materiais impressos personalizados em promover o cumprimento do cronograma de rastreamento durante 1996 e 1997 entre mulheres que estavam fora do cronograma no ano anterior."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "DESENHO",
+            "PARTICIPANTES",
+            "INTERVENÇÃO",
+            "DESFECHO PRINCIPAL",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Análise Custo-Benefício",
+            "Feminino",
+            "Organizações de Manutenção da Saúde",
+            "Humanos",
+            "Modelos Logísticos",
+            "Mamografia",
+            "Marketing de Serviços de Saúde",
+            "Pessoa de Meia-Idade",
+            "Carolina do Norte",
+            "Razão de Chances",
+            "Folhetos",
+            "Aceitação pelo Paciente de Cuidados de Saúde",
+            "Satisfação do Paciente",
+            "Sistemas de Lembrete",
+            "Telefone"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Os efeitos da intervenção foram mais pronunciados após a primeira intervenção. Em comparação com os cuidados habituais, o aconselhamento telefônico pareceu particularmente eficaz na promoção de mudanças entre mulheres não aderentes, o grupo para o qual a intervenção foi desenvolvida. Esses resultados sugerem que o aconselhamento telefônico, em vez de impressos personalizados, pode ser a intervenção de primeira linha preferida para colocar mulheres não aderentes no cronograma para o rastreamento por mamografia. Muitas perguntas teriam que ser respondidas sobre o motivo de a intervenção com impressos personalizados não ter sido mais poderosa. No entanto, está claro que intervenções adicionais serão necessárias para manter a adesão das mulheres à mamografia. Termos MeSH (Medical Subject Headings): rastreamento por mamografia, aconselhamento telefônico, comunicações impressas personalizadas, barreiras."
+    },
+    "23831910": {
+        "QUESTION": "Enteroscopia de duplo balão: é eficaz e segura em um ambiente comunitário?",
+        "CONTEXTS": [
+            "De março de 2007 a janeiro de 2011, 88 procedimentos de EDB foram realizados em 66 pacientes. As indicações incluíram avaliação de anemia/sangramento gastrointestinal, DII do intestino delgado e dilatação de estenoses. A cápsula endoscópica (CE) foi usada antes da EDB em 43 dos 66 pacientes antes da avaliação por EDB.",
+            "A idade média foi de 62 anos. Trinta e dois pacientes eram do sexo feminino, 15 eram afro-americanos; 44 EDBs anterógradas e 44 retrógradas foram realizadas. O tempo médio por EDB anterógrada foi de 107,4±30,0 minutos com uma distância de 318,4±152,9 cm alcançada além do piloro. O tempo médio por EDB inferior foi de 100,7±27,3 minutos com 168,9±109,1 cm metros alcançados além da válvula ileocecal. Terapia endoscópica na forma de eletrocautério para ablação de fontes de sangramento foi realizada em 20 pacientes (30,3%), biópsia em 17 pacientes (25,8%) e dilatação de estenoses do intestino delgado relacionadas à doença de Crohn em 4 (6,1%). 43 CEs com patologia notada foram realizadas antes da EDB, com achados endoscopicamente confirmados em 32 casos (74,4%). Em 3 casos, a EDB mostrou achados não notados na CE."
+        ],
+        "LABELS": [
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Centros de Saúde Comunitários",
+            "Enteroscopia de Duplo Balão",
+            "Feminino",
+            "Humanos",
+            "Doenças Intestinais",
+            "Masculino",
+            "Pessoa de Meia-Idade"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A EDB parece ser igualmente segura e eficaz quando realizada em ambiente comunitário em comparação com um centro de referência terciário, com rendimento, eficácia e taxa de complicações comparáveis."
+    },
+    "26037986": {
+        "QUESTION": "Mortalidade em 30 dias e 1 ano em laparotomias cirúrgicas gerais de emergência: uma área de preocupação e necessidade de melhoria?",
+        "CONTEXTS": [
+            "A cirurgia de emergência está associada a piores desfechos e maior mortalidade, com estudos recentes sugerindo que a mortalidade em 30 dias seja de 14 a 15%. O objetivo deste estudo foi analisar a mortalidade em 30 dias, a mortalidade em 30 dias relacionada à idade e a mortalidade por todas as causas em 1 ano após laparotomia de emergência. Esperamos que isso incentive a coleta prospectiva de dados, a melhoria do atendimento e inicie estratégias para estabelecer as melhores práticas nesta área.",
+            "Este foi um estudo retrospectivo de pacientes que foram submetidos a laparotomia de emergência de junho de 2010 a maio de 2012. O desfecho primário do estudo foi a mortalidade em 30 dias, a mortalidade em 30 dias relacionada à idade e a mortalidade por todas as causas em 1 ano.",
+            "477 laparotomias foram realizadas em 446 pacientes. 57% tinham idade < 70 e 43% idade > 70 anos. A mortalidade em 30 dias foi de 12%, sendo 4% naqueles com idade < 70 anos e 22% naqueles > 70 anos (p < 0,001). A mortalidade em 1 ano foi de 25%, sendo 15% naqueles com idade inferior a 70 anos e 38% naqueles com idade > 70 anos (p < 0,001)."
+        ],
+        "LABELS": [
+            "OBJETIVOS",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Fatores Etários",
+            "Idoso",
+            "Idoso de 80 Anos ou Mais",
+            "Causa da Morte",
+            "Estudos de Coorte",
+            "Tratamento de Emergência",
+            "Feminino",
+            "Cirurgia Geral",
+            "Humanos",
+            "Incidência",
+            "Laparotomia",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Determinação de Necessidades de Cuidados de Saúde",
+            "Estudos Retrospectivos",
+            "Medição de Risco",
+            "Fatores de Tempo",
+            "Reino Unido"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "maybe",
+        "reasoning_free_pred": "yes",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "A laparotomia de emergência carrega uma alta taxa de mortalidade, especialmente naqueles com mais de 70 anos de idade, e mais precisa ser feito para melhorar os desfechos, particularmente neste grupo. Isso poderia envolver o aumento da mão de obra de cuidados cirúrgicos agudos, o reconhecimento precoce de pacientes que necessitam de cirurgia de emergência, o desenvolvimento de protocolos claros de manejo para tais pacientes ou talvez até mesmo considerar a centralização dos serviços cirúrgicos de emergência em centros especializados com equipes multidisciplinares envolvendo cirurgiões de emergência e médicos geriatras no hospital e serviços comunitários relacionados para cuidados pós-alta."
+    },
+    "26852225": {
+        "QUESTION": "O ajuste para heterogeneidade do relato é necessário em distúrbios do sono?",
+        "CONTEXTS": [
+            "Vinhetas de ancoragem são textos curtos que descrevem um personagem hipotético que ilustra um certo nível fixo de um traço sob avaliação. Esta pesquisa usa vinhetas para elucidar fatores associados a distúrbios do sono em adultos japoneses antes e depois do ajuste para heterogeneidade do relato em autorrelatos. Este estudo também avalia a necessidade de ajuste para heterogeneidade do relato no manejo de problemas relacionados ao sono e à energia no Japão.",
+            "Investigamos um conjunto de dados de 1002 respondentes com 18 anos ou mais da Pesquisa Mundial de Saúde Japonesa, que coletou informações por meio de entrevista presencial de 2002 a 2003. O modelo probit ordenado e o modelo CHOPIT (Compound Hierarchical Ordered Probit), que incorporou vinhetas de ancoragem, foram empregados para estimar e comparar as associações do sono e da energia com fatores sociodemográficos e de estilo de vida antes e depois do ajuste para diferenças nos pontos de corte das categorias de resposta para cada indivíduo.",
+            "A prevalência de problemas autorrelatados com sono e energia foi de 53%. Sem a correção das mudanças nos pontos de corte, idade, sexo e o número de comorbidades foram significativamente associados a uma maior gravidade dos problemas relacionados ao sono. Após a correção, idade, o número de comorbidades e exercício físico regular foram significativamente associados a uma maior gravidade dos problemas relacionados ao sono; o sexo não foi mais um fator significativo. Em comparação com o modelo probit ordenado, o modelo CHOPIT forneceu duas mudanças com uma sutil diferença na magnitude dos coeficientes de regressão após a correção para a heterogeneidade do relato."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Idoso",
+            "Feminino",
+            "Disparidades no Estado de Saúde",
+            "Inquéritos do Estado de Saúde",
+            "Humanos",
+            "Japão",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Aptidão Física",
+            "Prevalência",
+            "Autorrelato",
+            "Autoavaliação",
+            "Transtornos do Sono-Vigília",
+            "Fatores Socioeconômicos"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Os distúrbios do sono são comuns na população adulta geral do Japão. A correção para a heterogeneidade do relato usando vinhetas de ancoragem não é uma ferramenta necessária para o manejo adequado de problemas relacionados ao sono e à energia entre adultos japoneses. Idade mais avançada, diferenças de gênero na comunicação de problemas relacionados ao sono, a presença de múltiplas comorbidades e exercícios regulares devem ser o foco de políticas e da prática clínica para melhorar o manejo do sono e da energia no Japão."
+    },
+    "17113061": {
+        "QUESTION": "Mutações que causam baixo HDL-C promovem o aumento da espessura íntima-média carotídea?",
+        "CONTEXTS": [
+            "Embora dados observacionais apoiem uma relação inversa entre o colesterol de lipoproteína de alta densidade (HDL) e a doença arterial coronariana (DAC), estados genéticos de deficiência de HDL frequentemente não se correlacionam com DAC prematura.",
+            "Medições da espessura íntima-média carotídea (eIMC) foram obtidas em casos compreendendo 10 mutações diferentes em LCAT, ABCA1 e APOA1 para avaliar melhor a relação entre baixo HDL resultante de variação genética e aterosclerose precoce.",
+            "Em um estudo caso-controle de 1:2 de sujeitos pareados por sexo e idade (+/-5 anos) (n=114), a eIMC foi quase idêntica entre casos (0,66+/-0,17 cm) e controles (0,65+/-0,18 cm), apesar de níveis significativamente menores de HDL colesterol (0,67 vs. 1,58 mmol/l) e apolipoproteína A-I (96,7 vs. 151,4 mg/dl) (P<0,05)"
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "HDL-Colesterol",
+            "Meios de Contraste",
+            "Doença Coronariana",
+            "Feminino",
+            "Humanos",
+            "Masculino",
+            "Mutação",
+            "Fatores de Risco"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "As variantes genéticas identificadas no presente estudo podem ser insuficientes para promover aterosclerose carotídea precoce."
+    },
+    "10966337": {
+        "QUESTION": "Uma enfermaria de curta permanência ou de 23 horas em um hospital infantil geral e acadêmico: elas são eficazes?",
+        "CONTEXTS": [
+            "Avaliamos a utilidade de uma enfermaria de curta permanência ou de 23 horas em uma unidade pediátrica de um grande hospital de ensino, o Westmead Hospital, e em um hospital infantil acadêmico, o The New Children's Hospital, para determinar se são uma adição útil ao serviço de emergência.",
+            "Esta é uma comparação descritiva de dados coletados prospectivamente sobre todas as crianças admitidas na enfermaria de curta permanência do Westmead Hospital (WH) durante 1994 e na enfermaria de curta permanência do New Children's Hospital (NCH) durante 1997-98. Esses hospitais atendem a uma área demográfica idêntica, sendo o último (NCH) um centro de referência terciário. As seguintes medidas de desfecho foram usadas: tempo de permanência, adequação da permanência, taxa de admissão em leito hospitalar e taxa de visitas não agendadas dentro de 72 horas após a alta. Eventos adversos foram relatados e o acompanhamento do paciente foi tentado 48 horas após a alta em todos os casos.",
+            "A enfermaria de curta permanência respondeu por 10,3% (Westmead Hospital) e 14,7% (New Children's Hospital) das internações, sendo 56% de natureza médica, 30% cirúrgica e o restante procedimental ou psicológico. Os padrões de internação foram semelhantes, com asma, gastroenterite, convulsão, pneumonia e condições cirúrgicas simples respondendo pela maioria das internações na enfermaria de curta permanência. A enfermaria de curta permanência aumentou a eficiência hospitalar com um tempo médio de permanência de 17,5 horas (Westmead Hospital) em comparação com 20,5 horas (New Children's Hospital). Os usuários da enfermaria de curta permanência foram crianças de pouca idade, menores de 2 anos, com permanência superior a 23 horas relatada em apenas 1% de todas as internações na enfermaria de curta permanência. A taxa de admissão de pacientes em leito hospitalar foi baixa (4% [Westmead Hospital] em comparação com 6% [New Children's Hospital]), com o número de visitas não agendadas dentro de 72 horas após a alta da enfermaria de curta permanência sendo inferior a 1%. Não houve eventos adversos relatados em nenhuma das enfermarias de curta permanência, com alta satisfação dos pais. A enfermaria de curta permanência foi desenvolvida por meio da realocação de recursos de dentro do hospital para a unidade. Isso resultou em uma economia estimada de US$ 500 mil (Westmead Hospital) a US$ 2,3 milhões (New Children's Hospital) para o hospital, devido ao uso mais eficiente dos leitos."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Centros Médicos Acadêmicos",
+            "Doença Aguda",
+            "Adolescente",
+            "Criança",
+            "Pré-Escolar",
+            "Procedimentos Clínicos",
+            "Serviço Hospitalar de Emergência",
+            "Seguimento",
+            "Unidades Hospitalares",
+            "Hospitais Gerais",
+            "Hospitais Pediátricos",
+            "Humanos",
+            "Lactente",
+            "Tempo de Permanência",
+            "Nova Gales do Sul",
+            "Avaliação de Resultados em Cuidados de Saúde",
+            "Pediatria",
+            "Estudos Prospectivos",
+            "Fatores de Tempo"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Estes dados demonstram a natureza robusta da enfermaria de curta permanência. Nessas duas instituições muito diferentes, mostramos uma melhor eficiência de leitos e cuidados ao paciente de forma custo-efetiva. Também relatamos maior satisfação dos pais e o retorno precoce da criança com sua família para a comunidade."
+    },
+    "25432938": {
+        "QUESTION": "A reforma da lei de trânsito do Chile impulsionou a fiscalização policial?",
+        "CONTEXTS": [
+            "O objetivo do presente estudo é determinar em que medida a redução das fatalidades e ferimentos de trânsito no Chile durante 2000-2012 esteve relacionada ao incremento da fiscalização policial do trânsito registrado após a introdução de sua reforma da lei de trânsito de 2005.",
+            "Um conjunto de dados exclusivo com informações reunidas de instituições públicas e análises baseadas em modelos de mínimos quadrados ordinários e efeitos aleatórios robustos foi realizado. As variáveis dependentes foram as taxas de fatalidade e ferimentos graves no trânsito por população e frota de veículos. As variáveis independentes foram: (1) presença da nova lei nacional de trânsito; (2) policiais por população; (3) número de multas de trânsito por policial; e (4) efeito de interação do número de multas de trânsito por policial com a reforma da lei de trânsito. Preços do petróleo, consumo de álcool, proporção da população masculina de 15 a 24 anos, desemprego, investimento em infraestrutura rodoviária, efeitos dos anos e efeitos das regiões representaram variáveis de controle.",
+            "Estimativas empíricas de variáveis instrumentais sugerem que a promulgação da reforma da lei de trânsito em interação com o número de multas de trânsito por policial está significativamente associada a uma diminuição de 8% nas fatalidades de trânsito e 7% nos ferimentos graves. Os resultados do modelo de regressão piecewise para o período 2007-2012 sugerem que a fiscalização do trânsito pela polícia reduziu as fatalidades no trânsito em 59% e os ferimentos graves em 37%."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Acidentes de Trânsito",
+            "Condução de Veículos",
+            "Chile",
+            "Humanos",
+            "Aplicação da Lei",
+            "Modelos Estatísticos",
+            "Polícia",
+            "Fatores de Risco"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Os achados sugerem que as reformas da lei de trânsito, para terem um efeito na redução das taxas de fatalidade e ferimentos no trânsito, exigem mudanças nas práticas de fiscalização policial. Por fim, este caso também ilustra como a difusão de práticas bem-sucedidas de segurança no trânsito promovidas globalmente pela OMS e pelo Banco Mundial pode ser uma influência importante para aprimorar as práticas nacionais de segurança no trânsito."
+    },
+    "18847643": {
+        "QUESTION": "Anticoagulação terapêutica no paciente traumatizado: é segura?",
+        "CONTEXTS": [
+            "Pacientes traumatizados que necessitam de anticoagulação terapêutica representam um problema de tratamento difícil. O objetivo deste estudo foi determinar: (1) a incidência de complicações com o uso de anticoagulação terapêutica em pacientes traumatizados, e (2) se quaisquer fatores do paciente estão associados a essas complicações.",
+            "Uma revisão retrospectiva de 18 meses foi realizada em pacientes traumatizados com idade >= 15 anos que receberam anticoagulação terapêutica usando heparina não fracionada (HNF) e/ou heparina fracionada (HF). Quarenta características diferentes do paciente pré-tratamento e durante o tratamento foram registradas. As complicações da anticoagulação foram documentadas e definidas como qualquer descontinuação não antecipada do anticoagulante por sangramento ou outros eventos adversos.",
+            "Cento e quatorze pacientes traumatizados iniciaram anticoagulação terapêutica. A indicação mais comum para anticoagulação foi trombose venosa profunda (46%). Vinte e quatro pacientes (21%) tiveram pelo menos 1 complicação de anticoagulação. A complicação mais comum foi uma queda súbita na concentração de hemoglobina exigindo transfusão de sangue (11 pacientes). Cinco pacientes morreram (4%), 3 dos quais tiveram hemorragia significativa atribuída à anticoagulação. Análise bivariada seguida de regressão logística identificou doença pulmonar obstrutiva crônica (OR = 9,2, IC 95% = 1,5-54,7), uso de HNF (OR = 3,8, IC 95% = 1,1-13,0) e menor contagem inicial de plaquetas (OR = 1,004, IC 95% = 1,000-1,008) como estando associados a complicações. Os pacientes que receberam HNF vs. HF diferiram em várias características, incluindo valores laboratoriais e indicações de anticoagulação."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Anticoagulantes",
+            "Estudos de Coorte",
+            "Intervalos de Confiança",
+            "Tratamento de Emergência",
+            "Feminino",
+            "Seguimento",
+            "Heparina de Baixo Peso Molecular",
+            "Humanos",
+            "Escala de Gravidade do Ferimento",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Razão de Chances",
+            "Cuidados Pós-Operatórios",
+            "Cuidados Pré-Operatórios",
+            "Probabilidade",
+            "Estudos Retrospectivos",
+            "Medição de Risco",
+            "Gestão de Segurança",
+            "Análise de Sobrevida",
+            "Tromboembolismo",
+            "Terapia Trombolítica",
+            "Centros de Traumatologia",
+            "Resultado do Tratamento",
+            "Warfina",
+            "Ferimentos e Lesões"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Pacientes traumatizados têm uma taxa significativa de complicações relacionadas à terapia de anticoagulação, e prever quais pacientes desenvolverão uma complicação permanece incerto. Estudos prospectivos são necessários para determinar qual regime de tratamento, se houver, é apropriado para anticoagular com segurança essa população de alto risco."
+    },
+    "18239988": {
+        "QUESTION": "Diferenciação da esteato-hepatite não alcoólica da alcoólica: os marcadores laboratoriais de rotina são úteis?",
+        "CONTEXTS": [
+            "Faltam marcadores específicos para a diferenciação da esteato-hepatite não alcoólica (NASH) da alcoólica (ASH). Investigamos o papel dos parâmetros laboratoriais de rotina na distinção entre NASH e ASH.",
+            "Biópsias hepáticas realizadas em nosso hospital ao longo de um período de 10 anos foram revisadas, 95 pacientes com esteato-hepatite foram identificados e seus dados anteriores à biópsia foram reavaliados. O diagnóstico de NASH ou ASH foi atribuído (outras doenças hepáticas excluídas) com base na biópsia e no histórico de consumo de álcool (<140 g/semana). Modelos de regressão logística foram utilizados para a análise.",
+            "NASH foi diagnosticada em 58 pacientes (61%; 30 m) e ASH em 37 (39%; 9 m). Fibrose de alto grau (59% vs. 19%, P < 0,0001) e uma razão AST/ALT > 1 (54,1% vs 20,7%, P = 0,0008) foram mais comuns na ASH. O VCM estava elevado em 53% dos pacientes com ASH e normal em todos os pacientes com NASH (P < 0,0001). A análise multivariada identificou o VCM (P = 0,0013), a razão AST/ALT (P = 0,011) e o sexo (P = 0,0029) como regressores relevantes (aROC = 0,92). A razão AST/ALT (P < 0,0001) e a idade (P = 0,00049) foram preditores independentes de fibrose de alto grau. As diferenças no VCM foram mais marcadas na fibrose de alto grau."
+        ],
+        "LABELS": [
+            "OBJETIVOS",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Adulto",
+            "Idoso",
+            "Alanina Transaminase",
+            "Aspartato Aminotransferases",
+            "Biomarcadores",
+            "Biópsia",
+            "Diagnóstico Diferencial",
+            "Índices de Eritrócitos",
+            "Fígado Gorduroso",
+            "Fígado Gorduroso Alcoólico",
+            "Feminino",
+            "Humanos",
+            "Fígado",
+            "Cirrose Hepática",
+            "Cirrose Hepática Alcoólica",
+            "Testes de Função Hepática",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Valor Preditivo dos Testes",
+            "Estudos Retrospectivos"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "yes",
+        "LONG_ANSWER": "VCMs e razões AST/ALT mais elevados na ASH refletem a gravidade da doença hepática subjacente e não diferenciam a NASH da ASH. Em vez disso, esses biomarcadores podem se mostrar úteis para orientar a seleção de pacientes para biópsia hepática e para direcionar a terapia."
+    },
+    "25957366": {
+        "QUESTION": "Alertar os prestadores de cuidados primários sobre o aumento do risco do paciente devido ao histórico familiar: funciona?",
+        "CONTEXTS": [
+            "Registros eletrônicos de saúde têm o potencial de facilitar o uso do histórico familiar por médicos de atenção primária (PCPs) para fornecer cuidados personalizados. O objetivo deste estudo foi determinar se alertas automatizados e personalizados no momento da consulta sobre o risco do histórico familiar alteram o comportamento do PCP.",
+            "Alertas automatizados e personalizados destacando o risco familiar para doença cardíaca, acidente vascular cerebral, diabetes e câncer de mama, colorretal ou de ovário foram implementados durante 2011 a 2012. Registros médicos de uma coorte de pacientes de atenção primária baseados na comunidade, com idades entre 35 e 65 anos, que participaram anteriormente do nosso estudo Family Healthware e tinham um risco familiar moderado ou forte para qualquer uma das 6 doenças foram posteriormente revisados. As principais medidas de desfecho foram a resposta do PCP aos alertas, a adição do risco do histórico familiar às listas de resumo de problemas e o status de rastreamento do paciente para cada doença.",
+            "Os 492 pacientes elegíveis tiveram 847 consultas durante o período do estudo; 152 consultas não tiveram documentação de resposta a um alerta de histórico familiar. Das 695 consultas restantes, as respostas dos médicos foram: revisou o histórico familiar (n = 372, 53,5%), discutiu o histórico familiar (n = 159, 22,9%), não abordado (n = 155, 22,3%) e revisou o histórico familiar e solicitou exames/encaminhamentos (n = 5, 0,7%). Não houve mudança significativa na documentação da lista de resumo de problemas sobre o status de risco ou intervenções de rastreamento para qualquer uma das 6 doenças."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Idoso",
+            "Registros Eletrônicos de Saúde",
+            "Feminino",
+            "Predisposição Genética para Doença",
+            "Hereditariedade",
+            "Humanos",
+            "Masculino",
+            "Anamnese",
+            "Pessoa de Meia-Idade",
+            "Padrões de Prática Médica",
+            "Atenção Primária à Saúde",
+            "Estudos Prospectivos",
+            "Sistemas de Lembrete",
+            "Medição de Risco",
+            "Fatores de Risco"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Nenhuma mudança ocorreu com a instituição de alertas simples no momento da consulta sobre histórico familiar voltados para melhorar a capacidade dos PCPs de identificar pacientes em alto risco para 6 condições comuns. Os resultados são surpreendentes e decepcionantes. Estudos adicionais devem examinar a percepção dos médicos sobre a utilidade dos alertas para risco de histórico familiar."
+    },
+    "24866606": {
+        "QUESTION": "Programas de especialização (fellowship) em ultrassom de emergência impactam a educação em ultrassom dos residentes de medicina de emergência?",
+        "CONTEXTS": [
+            "Os anos recentes viram uma proliferação rápida de programas de ultrassom em emergência (USE) nos Estados Unidos. Até o momento, não há evidências que apoiem que as especializações em USE melhorem as experiências educacionais em ultrassom (US) dos residentes. O objetivo deste estudo foi determinar o impacto das especializações em USE na educação em US de residentes de medicina de emergência (ME).",
+            "Conduzimos um estudo transversal em 9 centros médicos acadêmicos. Um questionário sobre educação em US e uso de US à beira do leito foi pré-testado e aplicado aos residentes de ME. Os desfechos primários incluíram o número de exames de US realizados, o escopo das aplicações de US à beira do leito, as barreiras à educação em US dos residentes e o uso do US no departamento de emergência. Os desfechos secundários foram fatores que impactariam a educação em US dos residentes. Os desfechos foram comparados entre programas de residência com e sem especialização em USE.",
+            "Um total de 244 residentes de ME participou deste estudo. Trinta por cento (intervalo de confiança de 95%, 24%-35%) relataram ter realizado mais de 150 exames. Os residentes em programas com especializações em USE relataram realizar mais exames do que aqueles em programas sem especializações (P = 0,04). Diferenças significativas foram observadas na maioria das aplicações de US à beira do leito entre programas de residência com e sem especialização (P < 0,05). Também houveram diferenças significativas nas barreiras à educação em US entre programas de residência com e sem especialização (P < 0,05)."
+        ],
+        "LABELS": [
+            "OBJETIVOS",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Atitude do Pessoal de Saúde",
+            "Competência Clínica",
+            "Avaliação Educacional",
+            "Medicina de Emergência",
+            "Bolsas de Estudo e Especializações",
+            "Residência Médica",
+            "Radiologia",
+            "Ultrassonografia",
+            "Estados Unidos"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Os programas de especialização em US de emergência tiveram um impacto positivo nas experiências educacionais em US dos residentes. Os residentes de medicina de emergência realizaram mais exames no geral e também usaram o US à beira do leito para aplicações mais avançadas em programas com especialização em USE."
+    },
+    "26578404": {
+        "QUESTION": "Terapia da falta de ar controlada pelo paciente em cuidados paliativos: um novo conceito terapêutico para administração de opioides?",
+        "CONTEXTS": [
+            "A falta de ar é um dos sintomas mais angustiantes vivenciados por pacientes com diagnósticos de câncer avançado e não cancerígenos. Frequentemente, a gravidade da falta de ar aumenta rapidamente, exigindo controle rápido dos sintomas. Rotas orais, bucais e parenterais de administração de medicamentos controladas pelo prestador de serviços foram descritas. Não está claro se os sistemas de terapia controlada pelo paciente (TCP) seriam uma opção de tratamento adicional.",
+            "Investigar se a TCP com opioide intravenoso pode ser um método terapêutico eficaz para reduzir a falta de ar em pacientes com doença avançada. Os objetivos secundários foram estudar a viabilidade e a aceitação da TCP com opioides em pacientes com falta de ar refratária.",
+            "Este foi um estudo observacional piloto com 18 pacientes internados com doença avançada e falta de ar refratária recebendo TCP com opioides. A falta de ar foi medida em uma escala de avaliação numérica autorrelatada. Pontuações da Escala de Agitação e Sedação de Richmond, pontuações da Escala de Desempenho Paliativo, sinais vitais e um questionário de satisfação do paciente auto-desenvolvido foram usados para medir os desfechos secundários. Análises descritivas e de interferência (teste de Friedman) e análises post hoc (testes de Wilcoxon e correções de Bonferroni) foram realizadas.",
+            "Dezoito de 815 pacientes (câncer avançado; idade mediana = 57,5 anos [faixa de 36-81]; 77,8% do sexo feminino) receberam controle dos sintomas de falta de ar com TCP com opioides; a dose diária equivalente de morfina no Dia 1 foi mediana = 20,3 mg (5,0-49,6 mg); Dia 2: 13,0 mg (1,0-78,5 mg); Dia 3: 16,0 mg (8,3-47,0 mg). A escala de avaliação numérica da falta de ar atual diminuiu (linha de base: mediana = 5 [faixa 1-10]; Dia 1: mediana = 4 [faixa 0-8], P < 0,01; Dia 2: mediana = 4 [faixa 0-5], P < 0,01). Os parâmetros fisiológicos mantiveram-se estáveis ao longo do tempo. No Dia 3, 12/12 pacientes confirmaram que esse modo de aplicação proporcionou alívio da falta de ar."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "OBJETIVOS",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Administração Intravenosa",
+            "Adulto",
+            "Idoso",
+            "Idoso de 80 Anos ou Mais",
+            "Analgesia Controlada pelo Paciente",
+            "Analgésicos Opioides",
+            "Dispneia",
+            "Estudos de Viabilidade",
+            "Feminino",
+            "Humanos",
+            "Estudos Longitudinais",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Neoplasias",
+            "Cuidados Paliativos",
+            "Satisfação do Paciente",
+            "Estudos Prospectivos",
+            "Autorrelato",
+            "Índice de Gravidade da Doença"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A TCP com opioides é um método terapêutico viável e aceitável para reduzir a falta de ar refratária em pacientes sob cuidados paliativos."
+    },
+    "11729377": {
+        "QUESTION": "Ainda há necessidade de transplante hepático com doador vivo parente em crianças?",
+        "CONTEXTS": [
+            "Avaliar e comparar o valor do transplante de fígado bipartido (SLT) e do transplante de fígado com doador vivo parente (LRT).",
+            "O conceito de SLT resulta do desenvolvimento do transplante de tamanho reduzido. Um desenvolvimento adicional do SLT, a técnica de bipartição in situ, é derivado do LRT, que por si só marca o resultado otimizado em termos de função do enxerto e sobrevivência pós-operatórias. A combinação de SLT e LRT aboliu as mortes na lista de espera, levantando assim a questão se o transplante de fígado com doador vivo ainda é necessário.",
+            "Resultados e função hepática pós-operatória de 43 pacientes de LRT primário foram comparados com os de 49 pacientes de SLT primário (14 ex situ, 35 in situ) com peso do enxerto conhecido, realizados entre abril de 1996 e dezembro de 2000. As taxas de sobrevivência foram analisadas pelo método de Kaplan-Meier.",
+            "Após um acompanhamento mediano de 35 meses, as taxas reais de sobrevivência dos pacientes foram de 82% no grupo SLT e 88% no grupo LRT. As taxas reais de sobrevivência do enxerto foram de 76% e 81%, respectivamente. A incidência de não funcionamento primário foi de 12% no grupo SLT e 2,3% no grupo LRT. Os parâmetros da função hepática (tempo de protrombina, fator V, depuração de bilirrubina) e as taxas de complicações cirúrgicas não diferiram significativamente. No grupo SLT, o tempo médio de isquemia fria foi maior do que no grupo LRT. Os valores séricos de alanina aminotransferase durante a primeira semana pós-operatória foram significativamente maiores no grupo SLT. No grupo LRT, houve mais enxertos com sinais de degeneração gordurosa do que no grupo SLT."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "RESUMO DO CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Criança",
+            "Pré-Escolar",
+            "Fígado Gorduroso",
+            "Feminino",
+            "Sobrevivência do Enxerto",
+            "Humanos",
+            "Imunossupressores",
+            "Lactente",
+            "Fígado",
+            "Transplante de Fígado",
+            "Doadores Vivos",
+            "Masculino",
+            "Complicações Pós-Operatórias",
+            "Trauma de Reperfusão",
+            "Taxa de Sobrevida"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Os resultados a curto e longo prazo após LRT e SLT não diferiram significativamente. Para evitar o risco para o doador no LRT, o SLT representa a terapia de primeira linha no transplante hepático pediátrico em países onde órgãos cadavéricos estão disponíveis. O LRT fornece uma solução para casos urgentes em que um enxerto cadavérico não pode ser encontrado a tempo ou se a escolha do momento ideal para o transplante for vital."
+    },
+    "17096624": {
+        "QUESTION": "Existem padrões de conhecimento e atitudes entre idosos não vacinados?",
+        "CONTEXTS": [
+            "Examinar padrões de conhecimento e atitudes entre adultos com mais de 65 anos não vacinados contra influenza.",
+            "Pesquisou beneficiários do Medicare em 5 áreas; agrupou idosos não vacinados por seu conhecimento e atitudes relacionados à imunização.",
+            "Identificou 4 grupos: Potenciais (45%) receberiam a vacina contra influenza para prevenir a doença; Medrosos Não Informados (9%) não tinham certeza se a vacina contra influenza causa doenças; Duvidosos (27%) não tinham certeza se a vacina é eficaz; Mal Informados (19%) acreditavam que a vacina contra influenza causa doenças. Mais Potenciais (75%) e Mal Informados (70%) já receberam a vacina contra influenza do que os Medrosos Não Informados (18%) e Duvidosos (29%)."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Idoso",
+            "Idoso de 80 Anos ou Mais",
+            "Feminino",
+            "Conhecimentos, Atitudes e Práticas em Saúde",
+            "Humanos",
+            "Programas de Imunização",
+            "Vírus da Influenza A",
+            "Influenza Humana",
+            "Entrevistas como Assunto",
+            "Masculino",
+            "Estados Unidos"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Os achados sugerem que análises de agrupamento (cluster) podem ser úteis para identificar grupos para mensagens de saúde direcionadas."
+    },
+    "22694248": {
+        "QUESTION": "Existe um modelo para ensinar e praticar a nefrectomia retroperitoneoscópica?",
+        "CONTEXTS": [
+            "Embora a abordagem retroperitoneal tenha sido a escolha preferida para procedimentos urológicos abertos, a retroperitoneoscopia não é a abordagem preferida para a laparoscopia. Este estudo visa desenvolver um modelo de treinamento para retroperitoneoscopia e estabelecer uma curva de aprendizado experimental.",
+            "Quinze leitões foram operados para desenvolver um modelo padrão de treinamento de nefrectomia retroperitoneoscópica (NRN). Todos os procedimentos foram realizados com três portais. Dados intraoperatórios (lado, tempo cirúrgico, perda de sangue, abertura peritoneal) foram registrados. Os animais foram divididos nos grupos A, os primeiros oito, e B, os últimos sete casos. Os dados foram analisados estatisticamente.",
+            "Realizamos quinze NRNs. O tempo cirúrgico variou de 15 a 50 minutos (mediana de 30 minutos). A perda de sangue variou de 5 a 100 mL (mediana de 20 mL). Tivemos cinco aberturas peritoneais; tivemos duas complicações vasculares cirúrgicas manejadas laparoscopicamente. Houve diferença estatística entre os grupos A e B para abertura peritoneal (p = 0,025), tempo cirúrgico (p = 0,0037) e perda de sangue (p = 0,026).",
+            "A NRN em modelo suíno pôde simular todo o procedimento, desde a criação do espaço até a conclusão da nefrectomia. A curva de aprendizado experimental foi de oito casos, após análise estatística dos dados."
+        ],
+        "LABELS": [
+            "INTRODUÇÃO",
+            "MATERIAL E MÉTODOS",
+            "RESULTADOS",
+            "DISCUSSÃO"
+        ],
+        "MESHES": [
+            "Animais",
+            "Perda de Sangue Cirúrgica",
+            "Estudos de Viabilidade",
+            "Laparoscopia",
+            "Modelos Animais",
+            "Nefrectomia",
+            "Tempo Cirúrgico",
+            "Espaço Retroperitoneal",
+            "Suínos"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A NRN em modelo suíno é viável e pode ser muito útil para o ensino e a prática da retroperitoneoscopia."
+    },
+    "22990761": {
+        "QUESTION": "Risco cardiovascular em uma população adulta rural da África Ocidental: a frequência cardíaca de repouso também é relevante?",
+        "CONTEXTS": [
+            "A frequência cardíaca de repouso (FCR) elevada é um marcador negligenciado em estudos de fatores de risco cardiovascular de populações da África Subsaariana. Este estudo teve como objetivo determinar a prevalência de FCR elevada e outros fatores de risco para doença cardiovascular (DCV) e investigar quaisquer associações entre FCR e esses fatores de risco em uma população rural em Gana.",
+            "Análise transversal.",
+            "Um total de 574 adultos com idades entre 18 e 65 anos foram amostrados aleatoriamente de um registro populacional. Os dados coletados incluíram variáveis sociodemográficas e medições antropométricas, de pressão arterial (PA) e de FCR. A variabilidade intraindividual na FCR foi calculada usando dados de medições repetidas feitas com 2 semanas de intervalo.",
+            "Dos participantes do estudo, 36% eram do sexo masculino. A prevalência de PA elevada casual foi de 19%. Na população, 10% eram fumantes atuais de cigarro e o uso habitual de álcool foi alto, de 56%. Conforme medido pelo índice de massa corporal, 2% eram obesos e 14% tinham obesidade abdominal. A FCR estava elevada (>90 bpm) em 19%. No geral, 79% dos participantes do estudo apresentaram pelo menos um fator de risco para DCV. A FCR esteve significativamente associada à idade, circunferência da cintura e PA. Indivíduos com FCR elevada apresentaram maior risco (OR 1,94, IC 95% 1,15-3,26%, p = 0,013) de PA elevada casual em comparação com participantes com FCR normal, independentemente de vários fatores de risco de DCV estabelecidos. A razão de diluição de regressão da FCR foi de 0,75 (IC 95% 0,62-0,89)."
+        ],
+        "LABELS": [
+            "INTRODUÇÃO",
+            "DESENHO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Adulto",
+            "Idoso",
+            "Grupo de Ascendência Asiática",
+            "Doenças Cardiovasculares",
+            "Comorbidade",
+            "Estudos Transversais",
+            "Feminino",
+            "Gana",
+            "Inquéritos de Saúde",
+            "Frequência Cardíaca",
+            "Humanos",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Prevalência",
+            "Medição de Risco",
+            "Fatores de Risco",
+            "Saúde Rural",
+            "Adulto Jovem"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Associações significativas foram observadas entre a FCR e vários fatores de risco cardiovascular estabelecidos. Estudos prospectivos são necessários em populações da África Subsaariana para estabelecer o valor potencial da FCR na avaliação do risco cardiovascular."
+    },
+    "19394934": {
+        "QUESTION": "Preparação dos hospitais israelenses para incidentes com múltiplas vítimas relacionados ao terrorismo: a capacidade de surto e a distribuição da gravidade dos ferimentos podem ser mais bem previstas?",
+        "CONTEXTS": [
+            "A incidência de ataques urbanos em grande escala contra populações civis aumentou significativamente em todo o mundo na última década. Esses incidentes frequentemente resultam em Incidentes com Múltiplas Vítimas Hospitalares (HMCI), que são muito desafiadores para as equipes hospitalares. Há 15 anos, a Divisão de Medicina de Emergência e Desastres do Ministério da Saúde de Israel definiu uma chave de 20 por cento da capacidade de leitos de cada hospital como sua prontidão para múltiplas vítimas. Espera-se que metade dessas vítimas exija tratamento médico imediato. Este estudo foi realizado para avaliar a eficácia das diretrizes de prontidão atuais com base na epidemiologia dos HMCIs enfrentados.",
+            "Um estudo retrospectivo de HMCIs foi registrado no comando da frente interna das Forças de Defesa de Israel (IDF) e no Registro Nacional de Traumas de Israel (ITR) entre novembro de 2000 e junho de 2003. Um HMCI é definido pela Divisão de Medicina de Emergência e Desastres do Ministério da Saúde de Israel como >= 10 vítimas ou >= 4 sofrendo de ferimentos com um ISS >= 16 chegando a um único hospital.",
+            "O estudo inclui um total de 32 ataques, resultando em 62 HMCIs e 1292 vítimas. O número médio de vítimas que chegaram a um único hospital foi de 20,8 +/- 13,3 (faixa de 4 a 56, mediana de 16,5). Em 95% dos HMCIs, a carga de vítimas foi <= 52. Com base nas pontuações de gravidade e altas do pronto-socorro, 1022 (79,2%) vítimas não necessitaram de tratamento médico imediato."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Planejamento em Desastres",
+            "Serviço Hospitalar de Emergência",
+            "Recursos em Saúde",
+            "Hospitalização",
+            "Humanos",
+            "Israel",
+            "Incidentes com Múltiplas Vítimas",
+            "Registros",
+            "Estudos Retrospectivos",
+            "Medição de Risco",
+            "Gestão de Risco",
+            "Capacidade de Surto",
+            "Terrorismo",
+            "Índices de Gravidade do Trauma",
+            "Ferimentos e Lesões"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A preparação hospitalar pode ser melhor definida por um número fixo de vítimas em vez de um percentual de sua capacidade de leitos. Apenas 20% das vítimas que chegam necessitarão de tratamento médico imediato. A implementação desse conceito pode melhorar a utilização dos recursos nacionais de saúde de emergência, tanto na fase de preparação quanto em tempo real."
+    },
+    "11481599": {
+        "QUESTION": "Síndrome do desconforto respiratório agudo em crianças com neoplasia maligna -- podemos prever o desfecho?",
+        "CONTEXTS": [
+            "O objetivo deste estudo foi delinear preditores respiratórios precoces de mortalidade em crianças com neoplasia hemato-oncológica que desenvolveram síndrome do desconforto respiratório agudo (SDRA).",
+            "Conduzimos uma revisão retrospectiva de prontuários de crianças com neoplasia e SDRA que precisaram de ventilação mecânica e foram admitidas em uma unidade de terapia intensiva pediátrica de janeiro de 1987 a janeiro de 1997.",
+            "Dezessete crianças com SDRA e neoplasia maligna com idade de 10,5 +/- 5,1 anos foram identificadas. Seis das 17 crianças (35,3%) sobreviveram. A síndrome da sepse estava presente em 70,6% de todas as crianças. Valores de pico de pressão inspiratória, pressão positiva ao final da expiração (PEEP) e índice de ventilação puderam distinguir o desfecho no dia 3. Uma relação significativa entre os dados respiratórios e o desfecho relacionado à eficiência da oxigenação, conforme determinado por PaO(2)/FIO(2) e P(A-a)O(2), esteve presente a partir do dia 8 após o início da ventilação mecânica."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MATERIAIS E MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Análise de Variância",
+            "Criança",
+            "Pré-Escolar",
+            "Feminino",
+            "Humanos",
+            "Leucemia",
+            "Linfoma",
+            "Masculino",
+            "Respiração com Pressão Positiva",
+            "Prognóstico",
+            "Síndrome do Desconforto Respiratório do Adulto",
+            "Estudos Retrospectivos"
+        ],
+        "YEAR": "2001",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Valores de pico de pressão inspiratória, PEEP e índice de ventilação puderam distinguir sobreviventes de não sobreviventes no dia 3. Isso pode auxiliar na aplicação precoce de terapias não convencionais de suporte em crianças com neoplasia maligna e SDRA."
+    },
+    "21669959": {
+        "QUESTION": "Risco de fumaça de segunda mão em lactentes de alta de uma UTIN: potencial para disparidades de saúde significativas?",
+        "CONTEXTS": [
+            "A exposição à fumaça de segunda mão (SHSe) ameaça lactentes frágeis liberados de uma unidade de terapia intensiva neonatal (UTIN). As práticas de fumo foram examinadas em famílias com um lactente de alto risco respiratório (nascido com muito baixo peso ao nascer; ventilado por > 12 h) em uma UTIN de Houston, Texas. Hipotetizou-se que o status socioeconômico, a raça e o status de saúde mental estariam relacionados à SHSe e às proibições de fumo no domicílio.",
+            "Os dados foram coletados como parte do The Baby's Breath Project, um ensaio de intervenção de SHSe baseado em hospital visando pais com um lactente de alto risco na UTIN que relataram um fumante no domicílio (N = 99). Medidas de dados sociodemográficos, fumo, proibições de fumo em casa e no carro, e depressão foram coletadas.",
+            "No geral, 26% de todas as famílias com um lactente de alto risco na UTIN relataram um fumante no domicílio. Quase metade das famílias com um fumante relatou uma renda anual inferior a US$ 25.000. 46,2% das famílias relataram ter uma proibição total de fumo em vigor tanto em suas casas quanto em seus carros. Apenas 27,8% das famílias que ganhavam menos de US$ 25.000 relataram ter uma proibição total de fumo em vigor em comparação com quase 60% das famílias que ganhavam mais (p < 0,01). Famílias afro-americanas e caucasianas foram menos propensas a ter uma proibição de fumo em comparação com hispânicas (p < 0,05). As mães que não relataram proibição de fumo estavam mais deprimidas do que aquelas que tinham uma proibição de fumo no domicílio (p < 0,02)."
+        ],
+        "LABELS": [
+            "INTRODUÇÃO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Afro-Americanos",
+            "Poluição do Ar Interno",
+            "Grupo de Ascendência Asiática",
+            "Cuidadores",
+            "Depressão",
+            "Exposição Ambiental",
+            "Grupo de Ascendência Europeia",
+            "Características da Família",
+            "Feminino",
+            "Seguimento",
+            "Disparidades em Cuidados de Saúde",
+            "Hispano-Americanos",
+            "Humanos",
+            "Lactente",
+            "Recém-Nascido",
+            "Unidades de Terapia Intensiva Neonatal",
+            "Masculino",
+            "Prevalência",
+            "Risco",
+            "Comportamento de Redução de Risco",
+            "Fumar",
+            "Fatores Socioeconômicos",
+            "Texas",
+            "Poluição por Fumaça de Tabaco"
+        ],
+        "YEAR": "2011",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "As famílias mais desfavorecidas foram as menos propensas a ter comportamentos de proteção à saúde em vigor para reduzir a SHSe e, consequentemente, estão mais em risco para exposição ao tabaco e subsequentes disparidades de saúde relacionadas ao tabaco. Intervenções inovadoras de SHSe para esta população vulnerável são extremamente necessárias."
+    },
+    "23806388": {
+        "QUESTION": "Nomogramas projetados para prever a recorrência bioquímica (BCR) fazem um trabalho melhor em prever desfechos de câncer de próstata mais clinicamente relevantes do que a BCR?",
+        "CONTEXTS": [
+            "Examinar a capacidade de vários nomogramas pós-operatórios para prever a mortalidade específica por câncer de próstata (PCSM) e validar se eles poderiam prever a recorrência bioquímica agressiva (BCR). O antígeno prostático específico (PSA), o grau e o estágio são a tríade clássica usada para prever a BCR após a prostatectomia radical (PR). Múltiplos nomogramas usam esses parâmetros para prever o risco de BCR. Um estudo anterior mostrou que vários nomogramas poderiam prever a BCR agressiva (tempo de duplicação do antígeno prostático específico [PSADT] < 9 meses) com mais precisão do que a BCR. No entanto, permanece desconhecido se eles podem prever desfechos mais definitivos, como a PCSM.",
+            "Realizamos análises de Cox para examinar a capacidade de 4 nomogramas pós-operatórios, o nomograma do Duke Prostate Center (DPC), o nomograma pós-operatório de Kattan, o nomograma do Johns Hopkins Hospital (JHH) e o nomograma conjunto Center for Prostate Disease Research(CPDR)/Cancer of the Prostate Strategic Urologic Research Endeavor (CaPSURE) para prever a BCR e a PCSM entre 1778 homens no banco de dados Shared Equal Access Regional Cancer Hospital (SEARCH) submetidos a PR entre 1990 e 2009. Também comparamos a capacidade deles de prever a BCR e a BCR agressiva em um subconjunto de homens. Calculamos o c-index para cada nomograma para determinar sua precisão preditiva na estimativa dos desfechos reais.",
+            "Encontramos que cada nomograma pôde prever a BCR agressiva e a PCSM de maneira estatisticamente significativa e que todos eles previram a PCSM com mais precisão do que previram a BCR (ou seja, com valores de c-index mais altos)."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Idoso",
+            "Humanos",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Graduação do Tumor",
+            "Recidiva Local de Neoplasia",
+            "Estadiamento de Neoplasias",
+            "Nomogramas",
+            "Valor Preditivo dos Testes",
+            "Modelos de Riscos Proporcionais",
+            "Antígeno Prostático Específico",
+            "Prostatectomia",
+            "Neoplasias da Próstata",
+            "Fatores de Tempo"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Os nomogramas atualmente disponíveis usados para prever a BCR preveem com precisão a PCSM e outros desfechos clinicamente mais relevantes. Além disso, não apenas preveem significativamente a PCSM, mas o fazem com precisão geralmente maior do que a BCR."
+    },
+    "17919952": {
+        "QUESTION": "Relatos de disfunção mecânica em dor orofacial crônica estão relacionados à somatização?",
+        "CONTEXTS": [
+            "(i) Examinar a associação entre fatores mecânicos autorrelatados e dor orofacial crônica. (ii) Testar a hipótese de que essa relação poderia ser explicada por: (a) relato de fatores psicológicos, (b) associação comum de fatores mecânicos autorrelatados com outras síndromes frequentemente inexplicáveis.",
+            "Um estudo transversal baseado em população com 4200 adultos selecionados aleatoriamente registrados em uma Prática Médica Geral no Noroeste da Inglaterra. O estudo examinou a associação da dor orofacial crônica com uma variedade de fatores mecânicos autorrelatados: ranger de dentes, trauma facial, dentes ausentes e a sensação de que os dentes não se encaixavam adequadamente. Informações também foram coletadas sobre fatores demográficos, fatores psicológicos e o relato de outras síndromes frequentemente inexplicáveis.",
+            "Uma taxa de resposta ajustada de 72% foi alcançada. Apenas dois fatores mecânicos: ranger de dentes (razão de chances (OR) 2,0, IC 95% 1,3-3,0) e trauma facial (OR 2,0; IC 95% 1,3-2,9) foram independentemente associados à dor orofacial crônica após o ajuste para fatores psicológicos. No entanto, esses fatores também foram comumente associados ao relato de outras síndromes frequentemente inexplicáveis: ranger de dentes (razão de chances (OR) 1,8, IC 95% 1,5-2,2), trauma facial (OR 2,1; IC 95% 1,7-2,6)."
+        ],
+        "LABELS": [
+            "OBJETIVOS",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Adulto",
+            "Idoso",
+            "Bruxismo",
+            "Doença Crônica",
+            "Estudos Transversais",
+            "Traumatismos Faciais",
+            "Dor Facial",
+            "Feminino",
+            "Humanos",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Boca Edêntula",
+            "Análise Multivariada",
+            "Prevalência",
+            "Estresse Mecânico",
+            "Inquéritos e Questionários"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Fatores mecânicos autorrelatados associados à dor orofacial crônica são confundidos, em parte, por fatores psicológicos e são igualmente comuns em outras síndromes frequentemente inexplicáveis. Eles podem representar outra característica da somatização. Portanto, o uso de terapia invasiva extensiva, como ajustes oclusais e cirurgia para alterar fatores mecânicos, pode não ser justificado em muitos casos."
+    },
+    "10966943": {
+        "QUESTION": "Ambliopia: a perda visual é permanente?",
+        "CONTEXTS": [
+            "Os prontuários de 465 pacientes com diagnóstico estabelecido de degeneração macular relacionada à idade que frequentaram uma clínica especializada em mácula entre 1990 e 1998 foram examinados. Um exame clínico completo e uma refração padronizada foram realizados em 189 desses casos em no mínimo duas ocasiões. Buscaram-se casos onde uma melhora de uma ou mais linhas de acuidade para longe ou para perto foi registrada no olho não afetado pela doença macular. Em cada um desses casos, a melhora na acuidade visual não pôde ser atribuída ao tratamento de outra patologia existente.",
+            "12 tais casos foram detectados. Em nove destes, o olho que mostrou melhora da acuidade tinha um histórico de ambliopia. A melhora média na acuidade para longe e para perto em olhos amblíopes em 12 meses foi de 3,3 e 1,9 linhas logMAR, respectivamente. A melhora na acuidade geralmente ocorreu entre 1 e 12 meses a partir do início e permaneceu estável ao longo do período de acompanhamento."
+        ],
+        "LABELS": [
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Ambliopia",
+            "Percepção de Distância",
+            "Feminino",
+            "Seguimento",
+            "Humanos",
+            "Degeneração Macular",
+            "Masculino",
+            "Plasticidade Neuronal",
+            "Estudos Retrospectivos",
+            "Acuidade Visual"
+        ],
+        "YEAR": "2000",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Pessoas mais velhas com histórico de ambliopia que desenvolvem perda visual no olho anteriormente normal podem ter recuperação da função visual no olho amblíope ao longo do tempo. Essa recuperação na função visual ocorre na esteira da perda visual no outro olho e a melhora parece ser sustentada."
+    },
+    "23690198": {
+        "QUESTION": "Implementação da analgesia epidural para o parto: o padrão de analgesia eficaz é alcançável em todas as mulheres?",
+        "CONTEXTS": [
+            "Fatores sociais e culturais combinados com pouca informação podem impedir a difusão da analgesia epidural para alívio da dor durante o parto. O presente estudo foi lançado contemporaneamente à implementação da analgesia para o parto em nosso Departamento a fim de realizar uma auditoria de 2 anos sobre seu uso. O objetivo é avaliar a aceitação da epidural e a penetração na prática hospitalar por mulheres e cuidadores, além da segurança e eficácia durante o parto.",
+            "Este ciclo de auditoria mediu o desempenho da analgesia epidural em relação a 4 padrões: (1) Implementação da analgesia epidural para o parto a todas as pacientes; (2) Aceitação e bom nível de satisfação relatados por pacientes e cuidadores. (3) Eficácia da analgesia no parto; (4) Ausência de efeitos colaterais maternos ou fetais.",
+            "Durante o período de auditoria, a analgesia epidural aumentou de 15,5% de todos os partos no primeiro trimestre do estudo para 51% no último trimestre (p < 0,005). Os níveis de satisfação relatados por pacientes e cuidadores foram bons. Uma análise de agrupamento hierárquico identificou dois grupos com base na evolução temporal da EVA (Escala Visual Analógica): em 226 pacientes (grupo 1), a EVA diminuiu de 8,5 ± 1,4 antes para 4,1 ± 1,3 após a analgesia epidural; em 1002 pacientes (grupo 2), a EVA diminuiu de 8,12 ± 1,7 antes (NS vs grupo 1), para 0,76 ± 0,79 depois (p < 0,001 vs antes e vs grupo 2 depois). Nenhuma outra diferença entre os grupos foi observada."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "PACIENTES E MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Analgesia Epidural",
+            "Analgesia Obstétrica",
+            "Índice de Apgar",
+            "Cesárea",
+            "Análise por Agrupamento",
+            "Feminino",
+            "Hemodinâmica",
+            "Humanos",
+            "Recém-Nascido",
+            "Medição da Dor",
+            "Paridade",
+            "Segurança do Paciente",
+            "Satisfação do Paciente",
+            "Gravidez"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A presente auditoria mostra que o processo de implementação da analgesia de parto foi rápido, bem-sucedido e seguro; apesar da identificação de um grupo de mulheres com resposta subótima à analgesia epidural que precisa ser mais estudado, no geral a adesão das gestantes à analgesia de parto foi satisfatória."
+    },
+    "17940352": {
+        "QUESTION": "A imunorreatividade do HER2 fornece informações prognósticas em pacientes com carcinoma urotelial localmente avançado que recebem quimioterapia adjuvante M-VEC?",
+        "CONTEXTS": [
+            "Avaliar o impacto da imunorreatividade do HER2 no desfecho clínico em pacientes com carcinoma urotelial localmente avançado submetidos apenas a cirurgia ou a metotrexato, vinblastina, epirrubicina e cisplatina (M-VEC) como quimioterapia adjuvante.",
+            "Estudamos 114 espécimes fixados em formalina e emblocados em parafina obtidos de pacientes com carcinoma urotelial localmente avançado submetidos apenas a cirurgia ou M-VEC adjuvante. Os autores avaliaram a imunorreatividade do HER2 usando coloração imuno-histoquímica e exploraram a influência de parâmetros patológicos e da imunorreatividade do HER2 na sobrevida livre de progressão (PFS) e na sobrevida global específica da doença (OS) usando análises uni e multivariadas de Cox.",
+            "O carcinoma urotelial de bexiga teve uma frequência significativamente maior de imunorreatividade do HER2 do que o do trato urinário superior (60,7 vs. 20,7%, p < 0,0001). No geral, o status nodal foi um indicador prognóstico forte e independente para o desfecho clínico. A imunorreatividade do HER2 esteve significativamente associada à PFS (p = 0,02) e à OS específica da doença (p = 0,005) em pacientes com carcinoma urotelial avançado. Quanto aos pacientes com M-VEC adjuvante, a imunorreatividade do HER2 foi um fator prognóstico significativo para PFS (p = 0,03) e OS específica da doença (p = 0,02) usando análise univariada, mas não análise multivariada, e não para pacientes em observação cautelosa."
+        ],
+        "LABELS": [
+            "INTRODUÇÃO",
+            "MATERIAIS E MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Idoso",
+            "Idoso de 80 Anos ou Mais",
+            "Esquemas de Quimioterapia Combinada Antineoplásica",
+            "Carcinoma",
+            "Quimioterapia Adjuvante",
+            "Cisplatina",
+            "Sobrevida Livre de Doença",
+            "Epirrubicina",
+            "Feminino",
+            "Seguimento",
+            "Humanos",
+            "Imuno-Histoquímica",
+            "Metástase Linfática",
+            "Masculino",
+            "Metotrexato",
+            "Pessoa de Meia-Idade",
+            "Modelos de Riscos Proporcionais",
+            "Receptor ErbB-2",
+            "Fatores de Tempo",
+            "Resultado do Tratamento",
+            "Neoplasias da Bexiga Urinária",
+            "Urotélio",
+            "Vinblastina"
+        ],
+        "YEAR": "2007",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "A imunorreatividade do HER2 pode ter um valor prognóstico limitado para pacientes com carcinoma urotelial avançado submetidos a M-VEC adjuvante."
+    },
+    "20537205": {
+        "QUESTION": "A halofantrina é ototóxica?",
+        "CONTEXTS": [
+            "A halofantrina é um medicamento antimalárico recém-desenvolvido usado para o tratamento de malária por Plasmodium falciparum. A introdução deste medicamento foi atrasada devido aos seus possíveis efeitos colaterais e à insuficiência de estudos sobre reações adversas em humanos. Não há estudos investigando seu efeito na audição.",
+            "Trinta cobaias foram divididas em três grupos: um grupo controle, um grupo com dose terapêutica de halofantrina e um grupo com o dobro da dose terapêutica de halofantrina. Um espécime de cóclea de cada animal foi corado com hematoxilina e eosina e o outro com azul de toluidina.",
+            "Nenhuma alteração foi detectada no grupo controle. O grupo com dose terapêutica de halofantrina mostrou perda e distorção das células ciliadas internas e células falângicas internas, e perda de células dos gânglios espirais. No grupo com o dobro da dose terapêutica de halofantrina, as células ciliadas internas e externas estavam distorcidas e houve perda de células dos gânglios espirais."
+        ],
+        "LABELS": [
+            "INTRODUÇÃO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Animais",
+            "Antimaláricos",
+            "Cóclea",
+            "Relação Dose-Resposta a Droga",
+            "Cobaias",
+            "Células Ciliadas Auditivas Externas",
+            "Fenantrenos",
+            "Coloração e Rotulagem"
+        ],
+        "YEAR": "2010",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A halofantrina tem efeitos patológicos leves a moderados na histologia da cóclea e pode ser considerada uma droga ototóxica."
+    },
+    "28707539": {
+        "QUESTION": "A medição da área de tecido adiposo visceral em um único nível pode representar o volume de tecido adiposo visceral?",
+        "CONTEXTS": [
+            "A medição do tecido adiposo visceral (TAV) precisa ser precisa e sensível a mudanças para monitoramento de risco. O objetivo deste estudo é determinar a localização do corte de TC onde a área de TAV pode refletir melhor as alterações no volume de TAV e no peso corporal.",
+            "60 imagens de TC abdominal simples de 30 homens [idade média (faixa) 51 (41-68) anos, peso corporal médio (faixa) 71,1 (101,9-50,9) kg] submetidos a triagens no local de trabalho duas vezes em um intervalo de 1 ano foram avaliadas. As áreas calculadas automaticamente e corrigidas manualmente do TAV de vários níveis de varredura usando a região de interesse \"curva de forma livre\" na TC foram registradas e comparadas com as alterações de peso corporal.",
+            "As correlações mais fortes da área de TAV com o volume de TAV e as alterações de peso corporal foram mostradas em um corte 3 cm acima da margem inferior de L3, com valores de r de 0,853 e 0,902, respectivamente."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Abdômen",
+            "Adulto",
+            "Idoso",
+            "Humanos",
+            "Gordura Intra-Abdominal",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Tomografia Computadorizada Multidetectores",
+            "Reproduzibilidade dos Resultados",
+            "Estudos Retrospectivos"
+        ],
+        "YEAR": "2017",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A medição da área de TAV em um único nível 3 cm acima da margem inferior da vértebra L3 é viável e pode refletir alterações no volume de TAV e no peso corporal. Avanços no conhecimento: Como a área de TAV em um corte de TC 3 cm acima da margem inferior de L3 pode refletir melhor as alterações de intervalo no volume de TAV e no peso corporal, a medição da área de TAV deve ser selecionada nesta localização."
+    },
+    "7482275": {
+        "QUESTION": "Fasciite necrotizante: uma indicação para oxigenoterapia hiperbárica?",
+        "CONTEXTS": [
+            "O protocolo de tratamento aceito para fasciite necrotizante (FN) consiste em cirurgia extensiva e antibióticos de amplo espectro. A oxigenação hiperbárica (OHB) tem sido recomendada como terapia adjuvante para FN, melhorando a mortalidade e o desfecho do paciente. No entanto, o efeito benéfico da OHB para FN permanece controverso.",
+            "Uma avaliação retrospectiva do desfecho do tratamento em 37 pacientes tratados para FN entre 1984 e 1993 foi realizada. A taxa de mortalidade, critérios de morbidade e fatores de risco para prognóstico grave foram comparados entre um grupo de 25 pacientes que receberam OHB como parte de seu protocolo de tratamento e um grupo dos 12 pacientes restantes tratados apenas por excisão cirúrgica e antibióticos.",
+            "Os dois grupos mostraram-se semelhantes em relação à idade, gênero, incidência de fatores de risco individuais para prognóstico sombrio e a pontuação APACHE II (Acute Physiology and Chronic Health Evaluation) para gravidade da doença na apresentação. A taxa de mortalidade entre os pacientes tratados com OHB foi de 36%, em oposição a 25% no grupo sem OHB. O número médio de desbridamentos cirúrgicos necessários por paciente foi significativamente maior no grupo OHB: 3,3 em comparação com 1,5 nos pacientes não tratados com OHB. Embora o tempo médio de hospitalização para os sobreviventes tenha sido mais curto para o grupo OHB, a diferença entre os grupos não atingiu significância estatística."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Adulto",
+            "Idoso",
+            "Idoso de 80 Anos ou Mais",
+            "Fasciite Necrotizante",
+            "Feminino",
+            "Humanos",
+            "Oxigenação Hiperbárica",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Estudos Retrospectivos"
+        ],
+        "YEAR": "1995",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Os resultados deste estudo lançam dúvidas sobre a sugerida vantagem da OHB na redução da mortalidade e morbidade do paciente quando usada como terapia adjuvante para FN."
+    },
+    "24183388": {
+        "QUESTION": "O sinal de Hawkins é capaz de prever necrose em fraturas do colo do astrágalo?",
+        "CONTEXTS": [
+            "Avaliar se o sinal de Hawkins pode prever se fraturas do colo do astrágalo desenvolverão ou não necrose avascular. Avalia-se também se a ocorrência dessa complicação está relacionada ao desvio da fratura, lesão de tecidos moles ou atraso na redução ou cirurgia. Os resultados foram comparados com os encontrados na literatura.",
+            "Um estudo retrospectivo foi realizado em 23 fraturas do colo do tálus registradas ao longo de um período de treze anos. As seguintes variáveis foram analisadas: desvio da fratura, lesão de tecidos moles, atraso e tipo de tratamento, complicações, observação do sinal de Hawkins e resultado funcional.",
+            "Houve 7 fraturas do tipo I de Hawkins, 11 do tipo II, 4 do tipo III e 1 do tipo IV. Quatro casos desenvolveram necrose avascular (2 Hawkins tipo II e 2 tipo III). O sinal de Hawkins foi observado em 12 casos, dos quais nenhum desenvolveu necrose. Quatro casos com sinal de Hawkins negativo desenvolveram necrose. Nenhuma diferença estatisticamente significativa foi encontrada ao comparar o desenvolvimento de necrose avascular com o desvio da fratura, lesão de tecidos moles ou atraso no tratamento. Diferenças foram encontradas ao comparar o desenvolvimento de necrose avascular com o sinal de Hawkins (P = 0,03)."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MATERIAL E MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Adulto",
+            "Criança",
+            "Pré-Escolar",
+            "Feminino",
+            "Fraturas Ósseas",
+            "Humanos",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Osteonecrose",
+            "Prognóstico",
+            "Estudos Retrospectivos",
+            "Tálus",
+            "Adulto Jovem"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Um sinal de Hawkins positivo descarta que o tálus fraturado tenha desenvolvido necrose avascular, mas sua ausência não a confirma."
+    },
+    "9645785": {
+        "QUESTION": "Uma rotação obrigatória em cirurgia geral é necessária no internato cirúrgico?",
+        "CONTEXTS": [
+            "Mudanças no espectro da cirurgia geral e na prestação de cuidados cirúrgicos colocaram em questão a exigência de uma rotação obrigatória em cirurgia geral no internato cirúrgico.",
+            "Testamos a hipótese de que o domínio igual dos objetivos do internato cirúrgico pode ser obtido em um internato com e sem cirurgia geral. Os alunos escolheram quaisquer duas rotações cirúrgicas e foram avaliados por exame escrito, exame clínico objetivo estruturado (OSCE), avaliações da enfermaria, questionário de autoavaliação de objetivos e pesquisa de satisfação.",
+            "Dados de 54 alunos não mostraram diferenças nas pontuações entre os grupos em nenhum parâmetro. Nenhuma preocupação específica relacionada à ausência de cirurgia geral foi identificada."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Atitude",
+            "Internato Clínico",
+            "Avaliação Educacional",
+            "Cirurgia Geral",
+            "Humanos",
+            "Medicina",
+            "Especialização",
+            "Estudantes de Medicina"
+        ],
+        "YEAR": "1998",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "A educação cirúrgica de graduação eficaz pode ser oferecida em muitos ambientes de especialidade. A remoção da exigência de cirurgia geral no internato pode levar a um uso mais eficaz de todas as oportunidades educacionais. Uma análise cuidadosa dos programas e instalações locais é necessária antes de sugerir essa mudança para outras instituições."
+    },
+    "26298839": {
+        "QUESTION": "A acupuntura é eficaz para tratar patologias vocais fonotraumáticas?",
+        "CONTEXTS": [
+            "Investigar a eficácia da acupuntura no tratamento de lesões benignas de prega vocal por fonotrauma. DESENHO DO ESTUDO/",
+            "Um total de 123 indivíduos disfônicos com patologias vocais benignas foram recrutados. Eles receberam acupuntura verdadeira (n = 40), acupuntura simulada/sham (n = 44) ou nenhum tratamento (n = 39) por 6 semanas (duas sessões de 30 minutos/semana). O grupo de acupuntura verdadeira recebeu agulhas puncionando nove acupontos relacionados à voz por 30 minutos, duas vezes por semana durante 6 semanas, enquanto o grupo de acupuntura simulada recebeu agulhas rompas estimulando a superfície da pele dos nove acupontos na mesma frequência e duração. O grupo sem tratamento não recebeu nenhuma intervenção, mas compareceu apenas às sessões de avaliação. Cento e dezessete sujeitos concluíram o estudo (acupuntura verdadeira = 40; acupuntura simulada = 43; e sem tratamento = 34), mas apenas 84 deles tinham um conjunto completo de medidas de funções vocais e qualidade de vida (acupuntura verdadeira = 29; acupuntura simulada = 33; e sem tratamento = 22) e 42 deles com um conjunto completo de dados endoscópicos (acupuntura verdadeira = 16; acupuntura simulada = 15; e sem tratamento = 11).",
+            "Melhora significativa na função vocal, conforme indicado pela frequência fundamental máxima produzida, e também na qualidade de vida percebida, foram encontradas tanto no grupo de acupuntura verdadeira quanto no grupo simulado, mas não no grupo sem tratamento. Melhores estruturais (morfológicas) foram, no entanto, notadas apenas no grupo de acupuntura verdadeira, que demonstrou uma redução significativa no tamanho das lesões nas pregas vocais."
+        ],
+        "LABELS": [
+            "OBJETIVOS",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Acústica",
+            "Terapia por Acupuntura",
+            "Adulto",
+            "Disfonia",
+            "Feminino",
+            "Hong Kong",
+            "Humanos",
+            "Laringoscopia",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Qualidade de Vida",
+            "Recuperação de Função Fisiológica",
+            "Medição da Produção da Fala",
+            "Estroboscopia",
+            "Inquéritos e Questionários",
+            "Fatores de Tempo",
+            "Resultado do Tratamento",
+            "Gravação em Vídeo",
+            "Pregas Vocais",
+            "Qualidade da Voz",
+            "Cicatrização de Feridas",
+            "Adulto Jovem"
+        ],
+        "YEAR": "2016",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Os achados mostraram que a acupuntura em acupontos relacionados à voz pode trazer melhorias na função vocal e cicatrização de lesões nas pregas vocais."
+    },
+    "24153338": {
+        "QUESTION": "A reparação do aneurisma é justificada para pacientes com 80 anos ou mais após hemorragia subaracnóidea aneurismática?",
+        "CONTEXTS": [
+            "Com o avanço de uma sociedade envelhecida no mundo, um número crescente de pacientes idosos tem sido hospitalizado devido a hemorragia subaracnóidea aneurismática (aHSA). Não há estudo que compare os casos idosos de aHSA que recebem o tratamento definitivo com aqueles tratados conservadoramente. O objetivo deste estudo foi investigar a viabilidade da cirurgia definitiva para casos agudos de subaracnóidea com idade igual ou superior a 80 anos.",
+            "Revisamos 500 casos consecutivos com aHSA aguda com indicação cirúrgica para reparo de aneurisma. Casos inoperáveis, como mortos na chegada e casos com ambas as pupilas dilatadas, foram excluídos. Comparamos os casos com 80 anos ou mais que receberam clipagem ou embolização por mola com os controles cujas famílias selecionaram o tratamento conservador.",
+            "69 casos foram incluídos neste estudo (faixa de 80 a 98 anos, masculino:feminino=9:60). 56 casos (81,2%) tinham um aneurisma na circulação anterior. 23 casos receberam clipagem, 20 casos embolização por mola e 26 casos foram tratados conservadoramente. Os casos com reparo de aneurisma mostraram desfecho clínico significativamente melhor do que os controles, enquanto o grau da Federação Mundial de Sociedades de Neurocirurgia (WFNS) na admissão e a Escala de Rankin Modificada pré-mórbida não mostraram diferença entre eles."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Idoso de 80 Anos ou Mais",
+            "Aneurisma Rompido",
+            "Circulação Cerebrovascular",
+            "Estudos de Coorte",
+            "Embolização Terapêutica",
+            "Feminino",
+            "Humanos",
+            "Masculino",
+            "Procedimentos Neurocirúrgicos",
+            "Prognóstico",
+            "Estudos Retrospectivos",
+            "Hemorragia Subaracnóidea",
+            "Resultado do Tratamento"
+        ],
+        "YEAR": "2014",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Melhor prognóstico foi obtido quando o aneurisma rompido foi reparado em idosos do que quando foi tratado conservadoramente. A partir dos resultados deste estudo, não devemos hesitar em oferecer a cirurgia definitiva para idosos com aHSA."
+    },
+    "18534072": {
+        "QUESTION": "As características da clínica geral influenciam a adoção de uma inovação de tecnologia da informação (TI) na atenção primária?",
+        "CONTEXTS": [
+            "Avaliações recentes de inovações de TI na atenção primária destacaram variações entre centros e clínicas na adoção e uso. Avaliamos se as características estruturais de uma clínica geral estavam associadas a variações no uso de um sistema de informação clínica baseado na web que sustenta uma Rede de Gestão Clínica em diabetes, entre os anos de 2001 e 2003.",
+            "Usando uma trilha de auditoria computadorizada, calculamos o número de operações baseadas na web que ocorreram em cada clínica, estratificadas por tipo de equipe e ano, e ajustadas para o número de pacientes diabéticos registrados. Em análises de regressão, determinamos se o uso total estava associado a características estruturais da clínica (tamanho total da lista, status de treinamento, número de GPs (médicos de família), idade média dos GPs, número de GPs do sexo feminino, nível de privação da população e se a equipe havia recebido treinamento avançado em cuidados com o diabetes).",
+            "Inicialmente, havia algumas clínicas que faziam uso muito frequente do sistema de informação, com um número relativamente alto de clínicas usando o recurso com pouca frequência. No entanto, o uso geral gradualmente se tornou mais distribuído uniformemente. Esse efeito foi particularmente evidente entre os enfermeiros. O uso frequente por GPs foi evidente em apenas um pequeno número de clínicas, com o uso médio por GP diminuindo ao longo dos três anos. Em análises de regressão linear, nenhuma das variáveis da clínica geral esteve associada ao uso online, seja no geral ou estratificado por tipo de equipe, exceto pelo número de funcionários educados em diabetes. Isso esteve consistentemente associado ao aumento do uso por enfermeiros e GPs."
+        ],
+        "LABELS": [
+            "INTRODUÇÃO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Fatores Etários",
+            "Diabetes Mellitus",
+            "Difusão de Inovações",
+            "Manejo da Doença",
+            "Medicina de Família e Comunidade",
+            "Humanos",
+            "Sistemas de Informação",
+            "Internet",
+            "Fatores Sexuais",
+            "Fatores Socioeconômicos",
+            "Fatores de Tempo"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "As análises mostram que as características estruturais de uma clínica não estão associadas à adoção de um novo recurso de TI, mas que seu uso pode ser influenciado pela educação pós-graduada na condição clínica relevante. Para este sistema de diabetes, pelo menos, o uso por enfermeiros da clínica foi fundamental para espalhar a adoção além dos GPs entusiastas iniciais e para o uso sustentado e crescente nos anos subsequentes."
+    },
+    "8847047": {
+        "QUESTION": "Prognóstico do carcinoma hepatocelular pequeno bem diferenciado -- o carcinoma hepatocelular bem diferenciado é clinicamente um câncer precoce?",
+        "CONTEXTS": [
+            "O objetivo deste estudo é examinar se o carcinoma hepatocelular (CHC) bem diferenciado (w-d) é de fato clinicamente um câncer precoce.",
+            "Setenta e seis pacientes com CHCs pequenos e solitários de até 3 cm de diâmetro, submetidos a hepatectomia, foram observados por pelo menos 2 anos para possível recorrência. Esses pacientes foram divididos em dois grupos: 10 pacientes com CHCs w-d (grau I de Edmondson e Steiner) e 66 pacientes com CHCs menos diferenciados (l-d) (grau I-II, II-III e III de Edmondson e Steiner).",
+            "A análise histológica revelou que os CHCs w-d apresentaram menor incidência de formação de cápsula fibrosa (P < 0,01) quando comparados aos CHCs l-d. Não houveram diferenças significativas na incidência de metástase intra-hepática ou invasão da veia porta. Em um espécime ressecado de CHC w-d, sulfato de bário e gelatina foram injetados na veia porta e um espécime transparente foi feito. O espécime transparente mostrou que a veia porta no tumor parecia estar intacta. Microscopicamente, a infiltração de células cancerosas na estrutura fibrosa do trato portal estava presente. Não houveram diferenças significativas na sobrevida livre de doença entre os dois grupos. Uma análise do tempo de duplicação do volume tumoral em focos recorrentes sugeriu que focos cancerosos diminutos estavam presentes no momento da operação."
+        ],
+        "LABELS": [
+            "OBJETIVOS",
+            "MATERIAIS E MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Carcinoma Hepatocelular",
+            "Estudos Caso-Controle",
+            "Sobrevida Livre de Doença",
+            "Feminino",
+            "Seguimento",
+            "Hepatectomia",
+            "Humanos",
+            "Incidência",
+            "Fígado",
+            "Neoplasias Hepáticas",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Invasividade Neoplásica",
+            "Recidiva Local de Neoplasia",
+            "Veia Porta",
+            "Prognóstico",
+            "Fatores de Tempo"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Os CHCs w-d demonstraram clinicamente não ser um câncer precoce, porque não houve diferença significativa na sobrevida livre de doença entre os pacientes com CHCs w-d e l-d."
+    },
+    "10575390": {
+        "QUESTION": "Recomendações de acompanhamento para esfregaços de Papanicolaou anormais influenciam a adesão da paciente?",
+        "CONTEXTS": [
+            "Comparar a adesão às recomendações de acompanhamento para colposcopia ou repetição do esfregaço de Papanicolaou (Papanicolaou) para mulheres com resultados de Papanicolaou anteriormente anormais.",
+            "Estudo de coorte retrospectivo.",
+            "Três clínicas de planejamento familiar no norte da Califórnia.",
+            "Todas as mulheres com resultados anormais de Papanicolaou encaminhadas para colposcopia inicial e uma amostra aleatória daquelas encaminhadas para repetição do Papanicolaou. Prontuários médicos foram localizados e revisados para 90 de 107 mulheres encaminhadas para colposcopia e 153 de 225 mulheres encaminhadas para repetição do Papanicolaou.",
+            "Os protocolos de rotina da clínica para acompanhamento -- chamada telefônica, carta ou carta registrada -- foram aplicados sem levar em conta o tipo de anormalidade vista no Papanicolaou ou o exame recomendado.",
+            "Adesão documentada ao acompanhamento dentro de 8 meses após um resultado anormal. Tentativas de contato com as pacientes para acompanhamento, adesão às recomendações de acompanhamento e características das pacientes foram extraídas dos prontuários médicos. A probabilidade de adesão ao acompanhamento em relação ao número de tentativas de contato foi modelada com análise de sobrevida. Modelos de riscos proporcionais de Cox foram usados para examinar relações multivariadas relacionadas à adesão.",
+            "A taxa de adesão geral às recomendações de acompanhamento foi de 56,0% (136/243). A adesão a uma segunda colposcopia não foi significativamente diferente daquela para uma repetição do Papanicolaou (razão de chances, 1,40; intervalo de confiança de 95%, 0,80-2,46). O uso de até 3 lembretes para a paciente melhorou substancialmente a adesão ao acompanhamento. Mulheres sem seguro de saúde e mulheres atendidas em 1 das 3 clínicas foram menos propensas a aderir a qualquer recomendação de acompanhamento (razão de risco para sem seguro, 0,43 [intervalo de confiança de 95%, 0,20-0,93], e para clínica, 0,35 [intervalo de confiança de 95%, 0,15-0,73])."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "DESENHO",
+            "LOCAL",
+            "PACIENTES",
+            "INTERVENÇÃO",
+            "PRINCIPAIS MEDIDAS DE DESFECHO",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Adulto",
+            "Idoso",
+            "Colo do Útero",
+            "Colposcopia",
+            "Feminino",
+            "Humanos",
+            "Pessoa de Meia-Idade",
+            "Esfregaço de Papanicolaou",
+            "Cooperação do Paciente",
+            "Estudos Retrospectivos",
+            "Neoplasias do Colo do Útero",
+            "Esfregaço Vaginal"
+        ],
+        "YEAR": null,
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "A adesão ao acompanhamento foi baixa nesta população de clínica de planejamento familiar, independentemente do tipo de acompanhamento aconselhado. A adesão foi melhorada pelo uso de até 3 lembretes. Alocar recursos para métodos eficazes de melhoria da adesão ao acompanhamento de resultados anormais pode ser mais importante do que qual procedimento de acompanhamento é recomendado."
+    },
+    "20084845": {
+        "QUESTION": "Identificação biomolecular de pólen alergênico: uma nova perspectiva para o monitoramento aerobiológico?",
+        "CONTEXTS": [
+            "Informações precisas e atualizadas sobre o pólen atmosférico em áreas específicas podem ajudar pacientes alérgicos. Os sistemas de monitoramento atuais são baseados em uma abordagem de identificação morfológica, um método demorado que pode representar um fator limitante para o aprimoramento da rede de amostragem.",
+            "Verificar a viabilidade do desenvolvimento de uma abordagem de reação em cadeia da polimerase em tempo real (PCR), uma alternativa à análise óptica, como uma ferramenta rápida, precisa e automatizada para a detecção e quantificação de táxons de pólen alergênico atmosférico.",
+            "O método tradicional baseado em brometo de cetiltrimetilamônio foi modificado para isolamento de DNA a partir do pólen. Sequências de DNA específicas de táxons foram identificadas via bioinformática ou buscas na literatura e foram amplificadas por PCR a partir dos táxons alergênicos correspondentes; com base nas sequências dos produtos de PCR, sondas TaqMan complementares ou degeneradas foram desenvolvidas. A precisão do ensaio de PCR em tempo real quantitativo foi testada em 3 espécies de plantas.",
+            "A configuração de um protocolo modificado de extração de DNA nos permitiu obter DNA de pólen de boa qualidade. Fragmentos de genes nucleares específicos de táxons foram identificados e sequenciados. Pares de iniciadores e sondas projetados identificaram os táxons de pólen selecionados, em sua maioria no nível de classificação exigido. O pólen foi devidamente identificado mesmo quando coletado em fita aerobiológica de rotina. Ensaios preliminares de quantificação em grãos de pólen foram realizados com sucesso em espécies de teste e em misturas."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Antígenos Vegetais",
+            "Biologia Computacional",
+            "Iniciadores de DNA",
+            "Sondas de DNA",
+            "DNA Vegetal",
+            "Monitoramento Ambiental",
+            "Itália",
+            "Técnicas de Sonda Molecular",
+            "Folhas de Plantas",
+            "Proteínas Vegetais",
+            "Pólen",
+            "Reação em Cadeia da Polimerase"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A abordagem de PCR em tempo real revelou resultados promessores na identificação e quantificação de pólen, mesmo ao analisar misturas de pólen. Perspectivas futuras podem envolver o desenvolvimento de PCR em tempo real multiplex para a detecção simultânea de diferentes táxons no mesmo tubo de reação e a aplicação de métodos moleculares de alto rendimento."
+    },
+    "15703931": {
+        "QUESTION": " O diabetes mellitus influencia a eficácia do FDG-PET no diagnóstico do câncer de colo do útero?",
+        "CONTEXTS": [
+            "Em comparação com a tomografia computadorizada (TC) e a ressonância magnética (RM), a tomografia por emissão de pósitrons (PET) pode ter valor adicional na avaliação do câncer de colo do útero primário e recorrente. No entanto, o grau de captação tumoral de (18)F-2-fluoro-2-desoxi-D-glicose (FDG) é às vezes influenciado pelo diabetes mellitus (DM). Portanto, conduzimos este estudo prospectivo para comparar a capacidade diagnóstica do FDG-PET em pacientes com câncer de colo do útero complicado por DM e naqueles sem DM.",
+            "Pacientes com carcinoma primário de colo do útero localmente avançado não tratado ou recorrente clinicamente curável foram inscritos. Ambas as varreduras de FDG-PET e RM/TC foram realizadas dentro de 2 semanas. Os pacientes foram categorizados nos seguintes grupos: DM hiperglicêmico (glicemia de jejum > 126 mg/dl), DM euglicêmico e não-DM. As lesões foram confirmadas histologicamente ou por acompanhamento clínico. O método da curva característica de operação do receptor, com cálculo da área sob a curva (AUC), foi usado para avaliar o poder discriminativo.",
+            "De fevereiro de 2001 a janeiro de 2003, 219 pacientes (75 com câncer de colo do útero primário e 144 com recorrente) foram elegíveis para análise. Dezesseis tinham DM hiperglicêmico, 12 tinham DM euglicêmico e 191 estavam no grupo não-DM. O poder diagnóstico do PET nos grupos DM hiperglicêmico, DM euglicêmico e não-DM não diferiu significativamente em relação à identificação de lesões metastáticas (AUC, 0,967/0,947/0,925, P > 0,05) ou tumores primários/recorrência local (AUC, 0,950/0,938/0,979, P > 0,05). Considerando todos os pacientes com DM, o PET mostrou um poder de detecção significativamente maior do que as varreduras de RM/TC em relação às lesões metastáticas (AUC = 0,956 vs 0,824, P = 0,012)."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Idoso",
+            "Idoso de 80 Anos ou Mais",
+            "Artefatos",
+            "Complicações do Diabetes",
+            "Feminino",
+            "Fluorodesoxiglicose F18",
+            "Humanos",
+            "Pessoa de Meia-Idade",
+            "Tomografia por Emissão de Pósitrons",
+            "Radiofármacos",
+            "Reproduzibilidade dos Resultados",
+            "Sensibilidade e Especificidade",
+            "Neoplasias do Colo do Útero"
+        ],
+        "YEAR": "2005",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "Em comparação com sua precisão em pacientes sem DM, a precisão do PET em pacientes com câncer de colo do útero com DM leve a moderado não foi significativamente reduzida."
+    },
+    "18269157": {
+        "QUESTION": "Características biomecânicas e de cicatrização de feridas em córneas após cirurgia ceratORrefrativa por excimer laser: há diferença entre ablação de superfície avançada e ceratomileuse sub-Bowman?",
+        "CONTEXTS": [
+            "Descrever as características biomecânicas e de cicatrização de feridas de córneas após cirurgia ceratorrefrativa por excimer laser.",
+            "Avaliações histológicas, ultraestruturais e de resistência à tração coesiva foram realizadas em 25 espécimes de córnea humana normal, 206 espécimes não complicados de LASIK, 17 espécimes não complicados de ceratomileuse sub-Bowman (SBK), 4 espécimes não complicados de ceratectomia fotorrefrativa (PRK), 2 espécimes não complicados de ablação de superfície avançada (ASA), 5 espécimes de ceratocone, 12 espécimes de ectasia pós-operatória de LASIK e 1 espécime de ectasia pós-operatória de PRK, e comparados com estudos publicados anteriormente.",
+            "Estudos histológicos e ultraestruturais de córneas normais mostraram diferenças significativas na direção das fibras de colágeno e/ou no grau de entrelaçamento lamelar na camada de Bowman, no terço anterior do estroma corneano, nos dois terços posteriores do estroma corneano e na membrana de Descemet. Os testes de resistência à tração coesiva apoiaram diretamente esses achados morfológicos, pois as regiões mais fortes e rígidas da córnea estavam localizadas anterior e perifericamente. Isso sugere que PRK e ASA, e secundariamente SBK, devem ser biomecanicamente mais seguras que o LASIK convencional quanto ao risco de causar ectasia corneana após a cirurgia. Como as feridas estromais corneanas de humanos adultos cicatrizam de forma lenta e incompleta, todas as técnicas cirúrgicas ceratorrefrativas por excimer laser ainda apresentam algumas desvantagens distintas devido à cicatrização reparadora inadequada. Apesar de reduzir parte do risco de névoa (haze) corneana em comparação com o PRK convencional, casos de ASA ainda podem desenvolver névoa corneana ou névoa de irrupção devido à cicatrização estromal fibrótica hipercelular. Em contraste, semelhante ao LASIK convencional, o SBK ainda possui o potencial de curto e longo prazo para complicações na interface da ferida decorrentes da cicatriz estromal primitiva hipocelular."
+        ],
+        "LABELS": [
+            "OBJETIVO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Fenômenos Biomecânicos",
+            "Membrana de Bowman",
+            "Resistência à Compressão",
+            "Córnea",
+            "Cirurgia Corneana a Laser",
+            "Humanos",
+            "Ceratocone",
+            "Lasers de Excimer",
+            "Resistência à Tração",
+            "Cicatrização de Feridas"
+        ],
+        "YEAR": "2008",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A patologia oftálmica e as pesquisas de ciências básicas mostram que o SBK e a ASA são melhorias na cirurgia ceratorrefrativa por excimer laser em comparação com o LASIK ou PRK convencionais, particularmente no que diz respeito à manutenção da biomecânica corneana e talvez reduzindo moderadamente o risco de névoa corneana. No entanto, a maioria das desvantagens causadas por problemas de cicatrização de feridas permanece."
+    },
+    "25489696": {
+        "QUESTION": "A radioterapia do câncer retal primário afeta o prognóstico após a exenteração pélvica para câncer retal recorrente?",
+        "CONTEXTS": [
+            "A radioterapia reduz as taxas de recorrência local, mas também é capaz de causar toxicidade a curto e longo prazo. Ela também pode tornar o tratamento da recorrência local mais desafiador caso esta se desenvolva apesar da radioterapia anterior.",
+            "Este estudo examinou o impacto da radioterapia para o câncer retal primário nos desfechos após exenteração pélvica para recorrência local.",
+            "Conduzimos uma revisão retrospectiva de bancos de dados de exenteração.",
+            "O estudo ocorreu em um centro de referência quaternário especializado em exenteração pélvica.",
+            "Pacientes encaminhados para exenteração pélvica de outubro de 1994 a novembro de 2012 foram revisados. Pacientes que receberam e não receberam radioterapia como parte de seu tratamento do câncer retal primário foram comparados.",
+            "Os principais desfechos de interesse foram margens de ressecção, sobrevida global, sobrevida livre de doença e morbidades cirúrgicas.",
+            "Houve 108 pacientes, dos quais 87 foram elegíveis para análise. Os pacientes que receberam radioterapia para seu câncer retal primário (n = 41) exigiram exenterações mais radicais (68% vs 44%; p = 0,020), tiveram taxas menores de margens de ressecção livres (63% vs 87%; p = 0,010), tiveram taxas aumentadas de complicações cirúrgicas por paciente (p = 0,014) e tiveram menor sobrevida livre de doença (p = 0,022). A sobrevida global e a sobrevida livre de doença em pacientes com margens livres também foram menores nos pacientes primariamente irradiados (p = 0,049 e p < 0,0001). Essa diferença na sobrevida persistiu na análise multivariada que corrigiu os estágios T e N do tumor primário.",
+            "Este estudo é limitado por sua natureza retrospectiva e regimes de radioterapia heterogêneos entre os pacientes irradiados."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "OBJETIVO",
+            "DESENHO",
+            "LOCAL",
+            "PACIENTES",
+            "PRINCIPAIS MEDIDAS DE DESFECHO",
+            "RESULTADOS",
+            "LIMITAÇÕES"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Idoso",
+            "Idoso de 80 Anos ou Mais",
+            "Terapia Combinada",
+            "Feminino",
+            "Humanos",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Recidiva Local de Neoplasia",
+            "Estadiamento de Neoplasias",
+            "Exenteração Pélvica",
+            "Prognóstico",
+            "Neoplasias Retais",
+            "Estudos Retrospectivos",
+            "Taxa de Sobrevida",
+            "Resultado do Tratamento"
+        ],
+        "YEAR": "2015",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "Pacientes que receberam previamente radioterapia para tratamento do câncer retal primário apresentam piores desfechos oncológicos do que aqueles que não haviam recebido radioterapia após exenteração pélvica para câncer retal localmente recorrente."
+    },
+    "14599616": {
+        "QUESTION": "Um cirurgião em atividade pode detectar o linfedema precoce de forma confiável?",
+        "CONTEXTS": [
+            "O linfedema pode ser identificado por alterações mais simples de circunferência em comparação com alterações no volume do membro.",
+            "Noventa pacientes com câncer de mama foram inscritos prospectivamente em um ensaio acadêmico, e sete circunferências do membro superior foram medidas trimestralmente durante 3 anos. Um aumento de volume de 10% ou um aumento superior a 1 cm na circunferência do braço identificou linfedema com verificação por um especialista em linfedema. A sensibilidade e a especificidade de vários critérios diferentes para detectar linfedema foram comparadas usando o ensaio acadêmico como padrão.",
+            "Trinta e nove casos de linfedema foram identificados pelo ensaio acadêmico. Usando um aumento de 10% na circunferência em dois locais como critério, metade dos casos de linfedema foram detectados (sensibilidade de 37%). Ao usar um aumento de 10% na circunferência em qualquer local, 74,4% dos casos foram detectados (sensibilidade de 49%). A detecção por um aumento de 5% na circunferência em qualquer local foi 91% sensível."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Braço",
+            "Neoplasias da Mama",
+            "Diagnóstico Precoce",
+            "Feminino",
+            "Seguimento",
+            "Humanos",
+            "Linfedema",
+            "Pessoa de Meia-Idade",
+            "Complicações Pós-Operatórias",
+            "Estudos Prospectivos",
+            "Radioterapia Adjuvante",
+            "Sensibilidade e Especificidade",
+            "Fatores de Tempo"
+        ],
+        "YEAR": "2003",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "maybe",
+        "final_decision": "maybe",
+        "LONG_ANSWER": "Um aumento de 5% nas medições de circunferência identificou a maioria dos casos potenciais de linfedema em comparação com um ensaio acadêmico."
+    },
+    "22537902": {
+        "QUESTION": "Câncer colorretal com metástases hepáticas síncronas: o manejo global no mesmo centro melhora os resultados?",
+        "CONTEXTS": [
+            "Metástases hepáticas síncronas (SLM) ocorrem em 20% dos cânceres colorretais (CRC). A ressecção de SLM e CRC pode ser realizada em centros diferentes (manejo separado, SM) ou no mesmo centro (manejo global, GM).",
+            "Estudo retrospectivo de ressecções de SLM e CRC realizadas durante 01/2000 - 12/2006 por SM ou GM, usando uma estratégia combinada ou tardia.",
+            "As características morfológicas e o tipo de ressecção de CRC e SLM foram semelhantes para os grupos GM (n = 45) ou SM (n = 66). Em pacientes com ressecção hepática tardia (62 SM, 17 GM), a quimioterapia antes da cirurgia hepática foi usada em 92% e 38% dos pacientes SM e GM (P < 0,0001) e o atraso mediano entre os procedimentos foi de 212 e 182 dias, respectivamente (P = 0,04). A primeira etapa da ressecção hepática foi realizada com mais frequência durante a cirurgia colorretal no grupo GM (62 vs. 6% para SM, P < 0,0001) e o número médio de procedimentos (CRC+SLM) foi menor (1,6 vs. 2,3, P = 0,003). A mortalidade em três meses foi de 3% para GM e 0% para SM (n.s.). As taxas de sobrevida global foram de 67% e 51% para SM e GM aos 3 anos (n.s.), e 35 e 31% aos 5 anos (n.s.). A sobrevida livre de doença em 5 anos foi maior em pacientes com SM (14% vs. 11%, P = 0,009)."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Neoplasias Colorretais",
+            "Terapia Combinada",
+            "Feminino",
+            "Humanos",
+            "Neoplasias Hepáticas",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Estudos Retrospectivos",
+            "Resultado do Tratamento"
+        ],
+        "YEAR": "2013",
+        "reasoning_required_pred": "no",
+        "reasoning_free_pred": "no",
+        "final_decision": "no",
+        "LONG_ANSWER": "O GM de CRC e SLM esteve associado a menos procedimentos, mas não influenciou a sobrevida global. O SM esteve associado a um atraso maior e ao aumento do uso de quimioterapia entre os procedimentos, sugerindo que uma seleção mais rigorosa de pacientes de SM para cirurgia pode explicar a maior sobrevida livre de doença após a ressecção de SLM."
+    },
+    "19054501": {
+        "QUESTION": "O déficit na percepção de movimento na esquizofrenia é consequência de uma anormalidade no rastreamento ocular?",
+        "CONTEXTS": [
+            "Estudos demonstraram que pacientes com esquizofrenia têm déficit na percepção de movimento, o que se pensava causar anormalidade no rastreamento ocular na esquizofrenia. No entanto, o movimento ocular interage estreitamente com a percepção de movimento. As dificuldades conhecidas de rastreamento ocular em pacientes com esquizofrenia podem interagir com sua percepção de movimento.",
+            "Dois experimentos de discriminação de velocidade foram conduzidos em um desenho intra-sujeito. No experimento 1, a duração do estímulo foi de 150 ms para minimizar a chance de ocorrência de rastreamento ocular. No experimento 2, a duração foi aumentada para 300 ms, aumentando a possibilidade de intrusão de movimento ocular. O desempenho regular do rastreamento ocular foi avaliado em um terceiro experimento.",
+            "Aos 150 ms, os limiares de discriminação de velocidade não diferiram entre pacientes com esquizofrenia (n = 38) e sujeitos de controle (n = 33). Aos 300 ms, os pacientes apresentaram limiares significativamente mais altos do que os sujeitos de controle (p = 0,03). Além disso, as frequências de rastreamento ocular durante o estímulo de 300 ms estiveram significativamente correlacionadas com a discriminação de velocidade em sujeitos de controle (p = 0,01), mas não em pacientes, sugerindo que o início do rastreamento ocular pode beneficiar sujeitos de controle, mas não pacientes. A frequência do rastreamento ocular durante a discriminação de velocidade não esteve significativamente relacionada ao desempenho regular do rastreamento ocular."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adolescente",
+            "Adulto",
+            "Discriminação (Psicologia)",
+            "Feminino",
+            "Fixação Ocular",
+            "Humanos",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Transtornos da Motilidade Ocular",
+            "Desempenho Psicomotor",
+            "Perseguição Suave",
+            "Psicologia Esquizofrênica",
+            "Lobo Temporal",
+            "Vias Visuais",
+            "Adulto Jovem"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A discriminação de velocidade, por si só, não está prejudicada em pacientes com esquizofrenia. A anormalidade observada parece ser uma consequência do prejuízo em gerar ou integrar as informações de feedback dos movimentos oculares. Este estudo introduz uma nova abordagem aos estudos de percepção de movimento e destaca a importância de medir concorrentemente os movimentos oculares para entender as interações entre esses dois sistemas; os resultados defendem uma revisão conceitual sobre a anormalidade da percepção de movimento na esquizofrenia."
+    },
+    "16432652": {
+        "QUESTION": "Esplenectomia endoscópica transgástrica: é possível?",
+        "CONTEXTS": [
+            "Relatamos anteriormente a viabilidade da peritoneoscopia diagnóstica e terapêutica, incluindo biópsia hepática, gastrojejunostomia e laqueadura tubária por uma abordagem transgástrica oral. Apresentamos os resultados da esplenectomia transgástrica peroral em modelo suíno. O objetivo deste estudo foi determinar a viabilidade técnica da esplenectomia transgástrica peroral usando um endoscópio flexível.",
+            "Realizamos experimentos agudos em porcos de 50 kg. Todos os animais foram alimentados com líquidos por 3 dias antes do procedimento. Os procedimentos foram realizados sob anestesia geral com intubação endotraqueal. O endoscópio flexível foi passado por via oral até o estômago e a punção da parede gástrica foi realizada com um bisturi de agulha. A punção foi estendida para criar uma incisão de 1,5 cm usando um esfincterótomo do tipo puxar, e um endoscópio de duplo canal foi avançado para a cavidade peritoneal. A cavidade peritoneal foi insuflada com ar através do endoscópio. O baço foi visualizado. Os vasos esplênicos foram ligados com alças e clipes endoscópicos e, em seguida, o mesentério foi dissectado usando eletrocautério.",
+            "A esplenectomia endoscópica foi realizada em seis porcos. Não houveram complicações durante a incisão gástrica e entrada na cavidade peritoneal. A visualização do baço e de outros órgãos intraperitoneais foi muito boa. A ligação dos vasos esplênicos e a mobilização do baço foram alcançadas usando dispositivos e acessórios endoscópicos disponíveis comercialmente."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Animais",
+            "Endoscopia",
+            "Modelos Animais",
+            "Baço",
+            "Esplenectomia",
+            "Estômago",
+            "Suínos"
+        ],
+        "YEAR": "2006",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "A esplenectomia endoscópica transgástrica em modelo suíno parece tecnicamente viável. Experimentos adicionais de sobrevida a longo prazo estão planejados."
+    },
+    "19504993": {
+        "QUESTION": "A gangrena de Fournier ainda é perigosa?",
+        "CONTEXTS": [
+            "A gangrena de Fournier é conhecida por ter um impacto na morbidade e, apesar de antibióticos e debridamento agressivo, a taxa de mortalidade permanece alta.",
+            "Avaliar a morbidade e mortalidade no tratamento da gangrena de Fournier em nossa experiência.",
+            "Os prontuários médicos de 14 pacientes com gangrena de Fournier que se apresentaram no Centro Hospitalar Universitário \"Mãe Teresa\" de janeiro de 1997 a dezembro de 2006 foram revisados retrospectivamente para analisar o desfecho e identificar o fator de risco e os indicadores prognósticos de mortalidade.",
+            "Dos 14 pacientes, 5 morreram e 9 sobreviveram. A idade média foi de 54 anos (faixa de 41 a 61): foi de 53 anos no grupo de sobreviventes e de 62 anos no grupo dos falecidos. Houve uma diferença significativa na contagem de leucócitos entre os pacientes que sobreviveram (faixa de 4.900 a 17.000/mm³) e os que morreram (faixa de 20.300 a 31.000/mm³). O tempo médio de internação hospitalar foi de cerca de 19 dias (faixa de 2 a 57 dias)."
+        ],
+        "LABELS": [
+            "CONTEXTO",
+            "OBJETIVOS",
+            "MÉTODOS",
+            "RESULTADOS"
+        ],
+        "MESHES": [
+            "Adulto",
+            "Feminino",
+            "Gangrena de Fournier",
+            "Humanos",
+            "Masculino",
+            "Pessoa de Meia-Idade",
+            "Taxa de Sobrevida"
+        ],
+        "YEAR": "2009",
+        "reasoning_required_pred": "yes",
+        "reasoning_free_pred": "yes",
+        "final_decision": "yes",
+        "LONG_ANSWER": "O intervalo desde o início dos sintomas clínicos até a intervenção cirúrgica inicial parece ser o fator prognóstico mais importante com um impacto significativo no desfecho. Apesar dos extensos esforços terapêuticos, a gangrena de Fournier permanece uma emergência cirúrgica e o reconhecimento precoce com debridamento radical imediato são os pilares do manejo."
+    }
+}
+```[cite: 1]
